@@ -40,40 +40,43 @@ def connect_to_endpoint(url, params):
 
 
 def main():
-    json_response = connect_to_endpoint(search_url, query_params)
-    for item in json_response['data']:
-        tweets_df = pd.read_csv('tweets.csv')
-        tweet = Tweet(item['text'], item['id'], item['created_at'])
+    while True:
+        json_response = connect_to_endpoint(search_url, query_params)
+        for item in json_response['data']:
+            tweets_df = pd.read_csv('tweets.csv')
+            tweets_df = tweets_df.drop_duplicates(subset=['Tweet_link'])
+            tweet = Tweet(item['text'], item['id'], item['created_at'])
+            pos_or_neg, words = is_positive_or_negative(tweet)  # 1 positive -1 negative 0 neutral
+            if pos_or_neg == 1:
+                new_tweet_df = pd.DataFrame({
+                    'Date': tweet.created_at_date,
+                    'Time': tweet.created_at_time,
+                    'Positive': 1,
+                    'Negative': ' ',
+                    'Tweet': tweet.tweet_main_text,
+                    'Translated_Tweet': tweet.translated_tweet_text,
+                    'Keyword(s)': words,
+                    'Tweet_link': f"https://twitter.com/twitter/status/{tweet.tweet_id}"
+                })
+                tweets_df = tweets_df.append(new_tweet_df, ignore_index=True)
+                tweets_df.to_csv('tweets.csv', index=False)
+                continue
 
-        pos_or_neg, words = is_positive_or_negative(tweet)  # 1 positive -1 negative 0 neutral
-        if pos_or_neg == 1:
-            new_tweet_df = pd.DataFrame({
-                'Date': tweet.created_at_date,
-                'Time': tweet.created_at_time,
-                'Positive': 1,
-                'Negative': ' ',
-                'Tweet': tweet.tweet_main_text,
-                'Translated_Tweet': tweet.translated_tweet_text,
-                'Keyword(s)': words,
-                'Tweet_link': f"https://twitter.com/twitter/status/{tweet.tweet_id}"
-            })
-            tweets_df = tweets_df.append(new_tweet_df, ignore_index=True)
-            tweets_df.to_csv('tweets.csv', index=False)
+            elif pos_or_neg == -1:
+                new_tweet_df = pd.DataFrame({
+                    'Date': tweet.created_at_date,
+                    'Time': tweet.created_at_time,
+                    'Positive': ' ',
+                    'Negative': 1,
+                    'Tweet': tweet.tweet_main_text,
+                    'Translated_Tweet': tweet.translated_tweet_text,
+                    'Keyword(s)': words,
+                    'Tweet_link': f"https://twitter.com/twitter/status/{tweet.tweet_id}"
 
-        elif pos_or_neg == -1:
-            new_tweet_df = pd.DataFrame({
-                'Date': tweet.created_at_date,
-                'Time': tweet.created_at_time,
-                'Positive': ' ',
-                'Negative': 1,
-                'Tweet': tweet.tweet_main_text,
-                'Translated_Tweet': tweet.translated_tweet_text,
-                'Keyword(s)': words,
-                'Tweet_link': f"https://twitter.com/twitter/status/{tweet.tweet_id}"
-
-            })
-            tweets_df = tweets_df.append(new_tweet_df, ignore_index=True)
-            tweets_df.to_csv('tweets.csv', index=False)
+                })
+                tweets_df = tweets_df.append(new_tweet_df, ignore_index=True)
+                tweets_df.to_csv('tweets.csv', index=False)
+                continue
 
 
 if __name__ == "__main__":

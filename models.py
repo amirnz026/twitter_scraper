@@ -13,6 +13,7 @@ class Tweet:
         self.tweet_main_text = tweet_main_text
         self.translated_tweet_text = translator.translate(tweet_main_text, dest='en').text
         self.tweet_id = tweet_id
+        self.tweet_link = f"https://twitter.com/twitter/status/{self.tweet_id}"
 
     def __str__(self):
         return f"{self.tweet_main_text}\n{self.translated_tweet_text}" \
