@@ -1,8 +1,7 @@
 import requests
-import tweepy
 import configparser
-import os
-import json
+import pandas as pd
+from models import Tweet, is_positive_or_negative
 
 # read configs
 config = configparser.RawConfigParser()
@@ -19,7 +18,7 @@ search_url = "https://api.twitter.com/2/tweets/search/recent"
 
 # Optional params: start_time,end_time,since_id,until_id,max_results,next_token,
 # expansions,tweet.fields,media.fields,poll.fields,place.fields,user.fields
-query_params = {'query': 'ワクチン'}
+query_params = {'query': 'ワクチン', 'tweet.fields': "created_at"}
 
 
 def bearer_oauth(r):
@@ -42,9 +41,39 @@ def connect_to_endpoint(url, params):
 
 def main():
     json_response = connect_to_endpoint(search_url, query_params)
-    print(json_response)
     for item in json_response['data']:
-        print(item['text'].encode('utf-16', 'surrogatepass').decode('utf-16'))
+        tweets_df = pd.read_csv('tweets.csv')
+        tweet = Tweet(item['text'], item['id'], item['created_at'])
+
+        pos_or_neg, words = is_positive_or_negative(tweet)  # 1 positive -1 negative 0 neutral
+        if pos_or_neg == 1:
+            new_tweet_df = pd.DataFrame({
+                'Date': tweet.created_at_date,
+                'Time': tweet.created_at_time,
+                'Positive': 1,
+                'Negative': ' ',
+                'Tweet': tweet.tweet_main_text,
+                'Translated_Tweet': tweet.translated_tweet_text,
+                'Keyword(s)': words,
+                'Tweet_link': f"https://twitter.com/twitter/status/{tweet.tweet_id}"
+            })
+            tweets_df = tweets_df.append(new_tweet_df, ignore_index=True)
+            tweets_df.to_csv('tweets.csv', index=False)
+
+        elif pos_or_neg == -1:
+            new_tweet_df = pd.DataFrame({
+                'Date': tweet.created_at_date,
+                'Time': tweet.created_at_time,
+                'Positive': ' ',
+                'Negative': 1,
+                'Tweet': tweet.tweet_main_text,
+                'Translated_Tweet': tweet.translated_tweet_text,
+                'Keyword(s)': words,
+                'Tweet_link': f"https://twitter.com/twitter/status/{tweet.tweet_id}"
+
+            })
+            tweets_df = tweets_df.append(new_tweet_df, ignore_index=True)
+            tweets_df.to_csv('tweets.csv', index=False)
 
 
 if __name__ == "__main__":

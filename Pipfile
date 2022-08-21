@@ -7,6 +7,7 @@ name = "pypi"
 tweepy = "*"
 configparser = "*"
 pandas = "*"
+translate = "*"
 
 [dev-packages]
 
