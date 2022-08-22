@@ -1,2 +1,11 @@
 config.ini
 /venv
+results.csv
+tweets.csv
+*.csv
+negative_words.csv
+negative_words.csv
+results.csv
+tweets.csv
+tweets.csv
+tweets.csv

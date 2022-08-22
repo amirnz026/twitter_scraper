@@ -1,144 +1,1177 @@
-Date,Time,Positive,Negative,Tweet,Translated_Tweet,Keyword(s),Tweet_link
-2022.08.21,14:41, ,1,RT @earthnyanko3: 音沙汰無かった友人と5年ぶりの会話。第一声が「ワクチン打った？あんな恐ろしいものダメだよ！」だって😆打ってないって言うと避けられることばかりだったから嬉しかったなあ。ちなみに友人「私なんて会社でたった一人の未接種者だよ」って笑ってた。周囲が次…,"RT @earthnyanko3: First conversation with a friend I haven't heard from in 5 years. The first thing I said was, ""Did you get a vaccine? You can't do something as scary as that!"" By the way, my friend laughed, ""I'm the only person in the company who hasn't been vaccinated."" The surroundings are next...",scary,https://twitter.com/twitter/status/1561362806699540486
-2022.08.21,14:41, ,1,"RT @takavet1: 便乗批判だと⁉️
-反論もなにも‼️
+Date,Hour,Minute,Positive,Negative,Tweet,Translated_Tweet,Keyword(s),Tweet_link
+2022.08.22,6,10, ,1,RT @daigooregairu: 実は弟が新型コロナかかったんだが、やっぱあれかかったらヤバいわ。熱40度、咳、倦怠感のフルコンボ。近隣の病院は受診できず、発熱外来あるとこも保健所も電話が繋がらない。ワクチンしてなかったらおそらく死んでた。弟曰く「死ぬかと思った」なお、熱が…,"RT @daigooregairu: Actually, my brother got the new coronavirus, but it would be dangerous if he got it. Full combo of 40 degrees fever, cough and malaise. Nearby hospitals are not accessible, and there is no phone connection to fever outpatient clinics or public health centers. If I hadn't been vaccinated, I would have probably died. My brother said, ""I thought I was going to die."" Furthermore, the fever...",no,https://twitter.com/twitter/status/1561596758924603395
+2022.08.22,6,10, ,1,"""怖ろしい、、大変なことが起こりそうだワクチン接種者は深く後悔している～ワクチン接種後の血液中の赤血球が破壊された映像から～https://t.co/uLzkmQJaoa https://t.co/qQHL9wUjKx","""Scary, something terrible is about to happen Vaccines are deeply regretted ~ From the video of the destruction of red blood cells in the blood after vaccination ~ https://t.co/uLzkmQJaoa https:// t.co/qQHL9wUjKx",terrible,https://twitter.com/twitter/status/1561596753027420160
+2022.08.22,6,10, ,1,"RT @nagunagumomo: 新型コロナ陽性になりました。症状は38.5度の熱が2日、倦怠感が1週間ほどありました。数年前に罹患したインフルエンザと比べると全然楽でした。過去に引いた風邪と比べて特に違いはありません。こんな""ただの風邪""に怯えて人類初のmRNAワクチンを打…","RT @nagunagumomo: New Corona positive. The symptoms were a fever of 38.5 degrees for two days and malaise for about a week. It was much easier than the flu I had a few years ago. It's no different than any cold I've had in the past. Fearing such a ""just a cold"", I shot the first mRNA vaccine for humankind...",no,https://twitter.com/twitter/status/1561596748468219905
+2022.08.22,6,11, ,1,RT @OvjB2Yute4GVwPR: 自民党政権の犠牲になり、どれだけの国民が死んだと思ってるのか⁉️身内、親戚、幸せを全て奪われた深い悲しみが自民党議員には判らないから🎵又コロナワクチン接種で、92万人も死んだのに‼️私利私欲の私物化嵩の、自民党は恥を知れよ‼️国会議員、…,"RT @OvjB2Yute4GVwPR: How many people do you think have died as a victim of the Liberal Democratic Party government? 920,000 people died! ️ Shame on the Liberal Democratic Party, who are selfish and selfish! ️ MPs,…",selfish,https://twitter.com/twitter/status/1561596803250016257
+2022.08.22,6,11, ,1,"RT @Tanuk_Ichi: その後、朝日新聞に負けじと日本の愚かなあらゆるメディアが反HPVワクチン報道を展開
+NHKなども含めて反ワクチン議員の池田としえらを時代の寵児として祭り上げる。
+クローズアップ現代のURLはしれっと削除済(魚拓求む) https://t.co/Y…","RT @Tanuk_Ichi: After that, every stupid media in Japan developed anti-HPV vaccine coverage to lose to Asahi Shimbun
+Including NHK, Ikeda Toshiera, an anti-vaccine lawmaker, will be celebrated as the darling of the times.
+Close-up modern URL has been deleted (seeking fish print) https://t.co/Y…",stupid,https://twitter.com/twitter/status/1561596801618419712
+2022.08.22,6,11,1, ,RT @nt47mn45: あまり報じないからみんな覚えてるかは分からないけどワク接種により脳の働きがとか車の運転する人は気をつけた方がいいんじゃないか？みたいな事を呟いた記憶があるんだけど、最近車の事故が多いような…｡タクシーやバスの運転手さんは特にワクチン接種を強制義務で打…,"RT @nt47mn45: I don't know if everyone remembers because I don't report much, but isn't it better to be careful about how the brain works due to vaccination and people who drive cars? I remember muttering something like that, but it seems like there have been a lot of car accidents lately... Taxis and bus drivers in particular have a compulsory vaccination requirement...",careful,https://twitter.com/twitter/status/1561596798593994755
+2022.08.22,6,11,1, ,RT @takavet1: 欧米はあの手この手で、支配を続けるために、新しい枠組み、ルールを押し付けてきます。その際、巧妙に正義を振りかざし、善人を装います。日本を守るために欧米の策略には十分気をつけた方がいいです。無批判に受け入れるのはとても危険です。ワクチンしかり、SDGs…,"RT @takavet1: The West will do whatever it takes to impose new frameworks and rules in order to maintain its dominance. At that time, he skillfully brandishes justice and pretends to be a good person. In order to protect Japan, it is better to pay close attention to the strategies of Europe and the United States. Uncritical acceptance is very dangerous. Vaccines, SDGs...",good,https://twitter.com/twitter/status/1561596794211303424
+2022.08.22,6,11, ,1,"RT @BB45_Colorado: ADEについて追加。
 
-もともと元気な人には不要だし、何兆円もかけて接種を進めるものでもない。ワクチン差別で分断もすすめたではないか！
+第1世代COVID-19ワクチンのADEは、全世界で学術的合意が形成される段階に入っていますが、それが何故可能であったのかを概説しています。
 
-岸田首相「ワクチン接種4回め」直後のコロナ感染 “反ワクチン派”の便乗批判に「重症化防ぐため」反論…","RT @takavet1: Opportunity criticism!?
-No objection!! ️
+ワクチンにADEが検出されたことがワクチンの否定にはならないというのが僕…","RT @BB45_Colorado: Added about ADE.
 
-It's not necessary for people who are originally energetic, and it's not something you can spend trillions of yen to get vaccinated. Didn't you recommend dividing by vaccine discrimination!
+An ADE for a first-generation COVID-19 vaccine is on the verge of reaching scientific consensus worldwide, and outlines why it was possible.
 
-Corona infection immediately after Prime Minister Kishida's ``fourth vaccination'' Counterargument ``to prevent aggravation'' against criticism of piggybacking of ``anti-vaccine faction''...",not,https://twitter.com/twitter/status/1561362806624366593
-2022.08.21,14:41,1, ,"RT @BB45_Colorado: これ、mRNA二価ワクチン、多価ワクチンの開発経緯を見ていると抗原原罪発生している疑いがあるのよね。
+It is my view that the detection of ADE in vaccines does not negate the use of vaccines.",negate,https://twitter.com/twitter/status/1561596790419312640
+2022.08.22,6,11, ,1,"RT @nagunagumomo: 新型コロナはただの風邪ではない、後遺症に悩んでいる人もいる。という意見は否定しません。
 
-ADEはもう明らかに世界中で起きている。
+しかし、それがワクチンを接種したり、マスクをする事と何か関係があるのですか？","RT @nagunagumomo: The new corona is not just a cold, some people are suffering from aftereffects. I do not deny the opinion.
 
-免疫寛容が、mRNA系ワクチンに特異的なIgG4増加が引き起こすのではないかと警告されて、学…","RT @BB45_Colorado: Looking at the development history of mRNA bivalent and multivalent vaccines, there is a suspicion that antigen original sin has occurred.
+But what does that have to do with getting vaccinated or wearing a mask?",deny,https://twitter.com/twitter/status/1561596786686722048
+2022.08.22,6,10, ,1,"RT @Tanuk_Ichi: 子宮頸がんやHPVワクチンに関して凄まじい数の質問やDMが来るので、可能な範囲でこちらでお返事します。
 
-ADE is already happening all over the world.
+まず最も多い質問
+Q. ◯◯歳で性交渉の経験もあるんですけど、HPVワクチンは接種した方が良いんでしょうか？
+A. 26歳以下なら強く推奨、…","RT @Tanuk_Ichi: I get a tremendous number of questions and DMs about cervical cancer and HPV vaccines, so I'll answer them here as much as possible.
 
-Warned that immune tolerance may be caused by an increase in IgG4 specific to mRNA-based vaccines, academics ...",original,https://twitter.com/twitter/status/1561362799791833088
-2022.08.21,14:41, ,1,"RT @universalsoftw2: 米国疾病予防センター（CDC）の新しい新型コロナ感染に対する指針は、
-・新型コロナウイルスに暴露した人でも隔離は必要ない
-・遺伝子ワクチン未接種者も接種者同様の扱い
-・新型コロナウイルスに暴露した生徒も授業に参加できる
-・症状がない人に…","RT @universalsoftw2: The U.S. Centers for Disease Control and Prevention (CDC) guidelines for new coronavirus infections are:
-・People who have been exposed to the new coronavirus do not need to be quarantined
-・Those who have not received genetic vaccines are treated the same as those who have been vaccinated
-・Students exposed to the new coronavirus can participate in classes
-・For those who have no symptoms",not,https://twitter.com/twitter/status/1561362850480013312
-2022.08.21,14:41, ,1,"RT @maimanma1: 大人はもう何回も予防接種してます
+First most common question
+Q. I am XX years old and have had sexual intercourse. Should I get the HPV vaccine?
+A. Strongly recommended if you are under 26,…",old,https://twitter.com/twitter/status/1561596779652853760
+2022.08.22,6,11, ,1,これからワクチン接種だけど既に体調が悪い（メンタル的なやつ）,"I'm going to get a vaccine now, but I'm already sick (mental one)",sick,https://twitter.com/twitter/status/1561596857339416576
+2022.08.22,6,11, ,1,RT @partyhike: 重症化リスクが低い若者には新機序のmRNAワクチンを様子見するという選択肢があったのに、医クラが何のエビデンスも存在せず厚労省ですら否定している『ワクチンで集団免疫』というデマを流し、『社会のため老人ために若者もワクチンを打て』という圧力を創り出し…,"RT @partyhike: Young people with a low risk of severe disease had the option of waiting for a new mechanism of mRNA vaccine, but the medical club has no evidence and even the Ministry of Health, Labor and Welfare denies it. Spreading the hoax of ""herd immunity with vaccines"" and creating pressure to ""vaccine young people for the sake of society and the elderly""...",severe,https://twitter.com/twitter/status/1561596849387352065
+2022.08.22,6,11, ,1,"RT @hontounokotoga1: ワクチン接種をすれば、おおかた感染もしなければ、発症することも無いと国民に宣伝していた、元ワクチン担当大臣に続いて首相まで感染した
 
-５－１１歳は接種率が低く十分に守られていません
-４歳以下はワクチンがありません
+　コロナワクチンに意味無し","RT @hontounokotoga1: The former minister in charge of vaccines, who advertised to the public that if he was vaccinated, he would not be infected or develop symptoms, and even the prime minister was infected
 
-ラゲブリオは１８歳以上、パキロビットは１２歳以上で子供に使えません
+""Corona vaccine has no meaning""",no,https://twitter.com/twitter/status/1561596846820036608
+2022.08.22,6,11,1, ,"ワクチン薬害に続くラゲブリオ薬害
+安易に処方して患者を死なせたら訴えられる https://t.co/QoguqG6Rkk","Laghebrio drug hazard following vaccine phytotoxicity
+If you easily prescribe and let the patient die, you can be sued https://t.co/QoguqG6Rkk",patient,https://twitter.com/twitter/status/1561596907021299713
+2022.08.22,6,11, ,1,"RT @kirikabu11: @junmurot ワクチン3回目接種後に男女2人が死亡したと発表。
+基礎疾患無し https://t.co/N1zRxYyWsZ","RT @kirikabu11: @junmurot Announced that two men and women died after the third vaccination.
+No underlying disease https://t.co/N1zRxYyWsZ",disease,https://twitter.com/twitter/status/1561596901707100160
+2022.08.22,6,11, ,1,"RT @MNHR_Labo: こういうあからさまな差別発言は病院内ではよく囁かれています。対象はワクチン未接種者だったり生活保護だったり肥満・生活習慣病患者だったり、その時時で形を変えて。
+ただ、SNSで実名で言っちゃっても大丈夫なわけではありません。
+医療者は困っている人全員…","RT @MNHR_Labo: Such outright discriminatory remarks are often whispered in the hospital. The target is non-vaccinated people, public assistance, obesity / lifestyle disease patients, change the shape at that time.
+However, it is not okay to say your real name on SNS.
+Medical workers are all those in need...",disease,https://twitter.com/twitter/status/1561596900012265473
+2022.08.22,6,11,1, ,RT @unkotaberuno: コレが４発ワクチン打った岸田が年初に言ったこと。そして岸田がコロナ陽性者になった。あのな、「お前、嘘つきだろ」「お前が言っていたことを信じてたが騙されたこの野郎」とこの男に言いまくっていいぞ、みんな。どうせ「ワクチン4回打ったから軽症で済んだ…,"RT @unkotaberuno: What Kishida said at the beginning of the year when he got 4 vaccines. And Kishida became a corona positive person. Hey, you can keep telling this guy, ""You're a liar!"" Anyway, ""Since I got four vaccines, I got off with a mild injury...",positive,https://twitter.com/twitter/status/1561596893779570688
+2022.08.22,6,11, ,1,RT @unkotaberuno: こびナビ事務局長の弁。ワクチンがとにかく効いていたことにしたい。当初の「ワクチンは感染を防ぐ」がぶっ壊れた後「症状が酷くなくなる」「重症化を防ぐ」の路線でヤツら押し通すらしい。ベッキーと川谷絵音のLINEのやり取りの「友達で押し通す予定笑」か…,"RT @unkotaberuno: Kobinavi Secretary General's valve. I wish the vaccine had worked anyway. After the initial ""vaccine prevents infection"" is broken, it seems that they will push through the route of ""preventing severe symptoms"" and ""preventing aggravation"". Becky and Enon Kawatani's LINE exchange ""I plan to push through with friends lol""...",severe,https://twitter.com/twitter/status/1561596892068577281
+2022.08.22,6,11, ,1,RT @genki_sudo: ワクチン3回目接種から3か月以内 発症を防ぐ効果65%…ということですが、重症化リスクが低くなっている中でたった3ヶ月、65%の効果の為に接種する必要性がわかりません。副反応や後遺症のリスクの方が気になる人は多いはずです。 https://t.c…,RT @genki_sudo: 65% effective in preventing onset within 3 months from the 3rd vaccination... but the need to inoculate for 65% effect for only 3 months while the risk of severe disease is low I do not know. There should be a lot of people who are more concerned about the risk of side effects and sequelae. https://t.c…,severe,https://twitter.com/twitter/status/1561596890575421440
+2022.08.22,6,11, ,1,たまに流れてくるコロナワクチン意味ない&amp;陰謀論のツイート、リプ欄含めてこわすぎw在日なのか洗脳されてんのか知らんけど、コロナが流行る前は普通の人だったとしたらコロナはやっぱり危険なのかもしれないなwちなみにワクチンは打ってないので反ワクはFF外からつっかかってこないでw,"The occasional coronavirus vaccine makes no sense & conspiracy theory tweets are too scary, including the reply column lol I don't know if I'm resident in Japan or brainwashed, but if I was a normal person before corona spread, corona might still be dangerous I don't know lol By the way, I haven't been vaccinated, so please don't get in the way of anti-waku from outside FF.",no,https://twitter.com/twitter/status/1561596888948043776
+2022.08.22,6,11,1, ,"RT @honda_hiroshi: 残念無念、医師の絶対数不足放置も同じ構図‼️😢😭
 
-小児に使える薬は点滴のベクルリー位しかありません
+ずっと感じてきたのは、この国の行政はデータを収集し、政策判断に生かすことが不得手だなということ。
 
-ワクチン…","RT @maimanma1: Adults have already been vaccinated many times
+14色のペン：ワクチン接種　米・英・韓にあって日本にないもの | 毎日新聞 https:…","RT @honda_hiroshi: Unfortunately, the same composition is left for the absolute shortage of doctors! ️😢😭
 
-5-11 year olds have low vaccination rates and are not adequately protected
-No vaccine for children under 4
+What I have always felt is that the administration of this country is not good at collecting data and making use of it in policy decisions.
 
-Lagebrio is over 18 years old, Pakirobit is over 12 years old and not suitable for children
-
-The only medicine that can be used for children is Veklury, which is an intravenous drip.
-
-vaccination…",not,https://twitter.com/twitter/status/1561362877042540545
-2022.08.21,14:41,1, ,"RT @Shiho_truth: マスクを常時着用し、ワクチンも4回接種し、検温や消毒もしっかり行い、感染対策はばっちり！
-
-なのに未接種者を攻撃するのはやめられないって、それ感染が怖いんじゃなくて「未接種者がなんかムカつく」ってだけじゃないの…？感染が怖いだけのごく普通の人は…","RT @Shiho_truth: Always wear a mask, get vaccinated 4 times, check temperature and disinfect properly, perfect for infection control!
-
-But you can't stop attacking unvaccinated people, isn't it because you're afraid of being infected, but just that ""non-vaccinated people are kind of annoying""...? Ordinary people who are just afraid of infection...",perfect,https://twitter.com/twitter/status/1561362916929966082
-2022.08.21,14:41, ,1,"岸田首相「ワクチン接種4回め」直後のコロナ感染 “反ワクチン派”の便乗批判に「重症化防ぐため」反論の声
-
-以下は、今現在では科学的に証明されたわけではないが、何故新規陽性者が下がらないのか、重症化や死者数が増加傾向なのかについては、
-
-https://t.co/5SDiUBXaeD","Prime Minister Kishida's Corona infection immediately after ``fourth vaccination'' Voice of counterargument ``to prevent aggravation'' against criticism of piggybacking of ``anti-vaccine faction''
-
-The following is not scientifically proven at the moment, but why the number of new positives has not decreased, and why the number of severe cases and the number of deaths are increasing,
-
-https://t.co/5SDiUBXaeD",not,https://twitter.com/twitter/status/1561362911351562240
-2022.08.21,14:41,1, ,"明日は４回目のワクチン接種です😅💦💦
-妻は気を遣ってくれて、娘👶とまた実家に行くそうです😊
-むむむ？
-今日に限って👶寝ません💨💨
-今、おんぶしながらツイートしてます😭
-
-#子育て #寝かしつけ #ﾆﾉﾐﾔｷﾝｼﾞﾛｳ","Tomorrow is the 4th vaccination 😅💦💦
-Her wife takes good care of her and is going to visit her parents again with her daughter👶😊
-Mumumu?
-Only for today 👶 I won't sleep 💨💨
-Right now, I'm tweeting while piggybacking 😭
-
-#Child-raising #Putting to sleep #Kinjiro Ninomiya",good,https://twitter.com/twitter/status/1561362908378189825
-2022.08.21,14:41, ,1,"RT @takavet1: 便乗批判だと⁉️
-反論もなにも‼️
-
-もともと元気な人には不要だし、何兆円もかけて接種を進めるものでもない。ワクチン差別で分断もすすめたではないか！
-
-岸田首相「ワクチン接種4回め」直後のコロナ感染 “反ワクチン派”の便乗批判に「重症化防ぐため」反論…","RT @takavet1: Opportunity criticism!?
-No objection!! ️
-
-It's not necessary for people who are originally energetic, and it's not something you can spend trillions of yen to get vaccinated. Didn't you recommend dividing by vaccine discrimination!
-
-Corona infection immediately after Prime Minister Kishida's ``fourth vaccination'' Counterargument ``to prevent aggravation'' against criticism of piggybacking of ``anti-vaccine faction''...",not,https://twitter.com/twitter/status/1561362906763395074
-2022.08.21,14:41, ,1,"RT @Tanuk_Ichi: 一方で日本のHPVワクチン接種率が1％未満だった時期から富山での接種率は高い。
+14 Colored Pens: Vaccination What is in the US, UK, and South Korea but not in Japan | The Mainichi Shimbun https:…",good,https://twitter.com/twitter/status/1561596955612299265
+2022.08.22,6,11,1, ,"@mph_for_doctors @MIKITO_777 これも確かに指摘の通りなんですね。先日 小児への努力義務が定められたワクチン分科会でも、厚労省の事前の根回しが強すぎて、理由の説明もないまま
+ぬるっと 努力義務異議なしとなりました。","@mph_for_doctors @MIKITO_777 This is certainly as you pointed out. The other day, even in the Vaccine Subcommittee, which was stipulated to make efforts for children, the Ministry of Health, Labor and Welfare was too strong in advance, and without an explanation of the reason.
+Nurutto Effort Obligation No Objection.",strong,https://twitter.com/twitter/status/1561596949580886017
+2022.08.22,6,11, ,1,"RT @01822239: 母は透析患者です。
+病院からワクチン強要をずっとされて脅されながら今まで耐え忍んできました。そんな母が、最近嘔吐とみぞおちの痛みで苦しんでいました。その症状を腎臓内科で診てもらいながら、特に何もしてもらえず、PCR検査だけは毎回されており、３回陰性で…","RT @01822239: My mother is a dialysis patient.
+She has endured up until now while being threatened by the hospital to coerce her into getting the vaccine. Recently, my mother was suffering from vomiting and pain in the pit of the stomach. She had her symptoms examined at the nephrology department, but she didn't do anything in particular, and only the PCR test was done every time, and it was negative three times...",pain,https://twitter.com/twitter/status/1561596946309324802
+2022.08.22,6,11, ,1,"RT @Tanuk_Ichi: 一方で日本のHPVワクチン接種率が1％未満だった時期から富山での接種率は高い。
 現在は既に20%を超える見込み。
 富山県議会議員で産婦人科医の種部先生から直接伺ったが、その決め手は
 ""富山には反ワクチン議員がいなかったから""
 
-反ワクチン議員は公…","RT @Tanuk_Ichi: On the other hand, the HPV vaccination rate in Toyama has been high since the time when the HPV vaccination rate in Japan was less than 1%.
+反ワクチン議員は公…","RT @Tanuk_Ichi: On the other hand, the vaccination rate in Toyama is high since the HPV vaccination rate in Japan was less than 1%.
 Currently, it is expected to exceed 20%.
 I directly asked Dr. Tanebe, a member of the Toyama Prefectural Assembly and an obstetrician and gynecologist, what was the decisive factor?
-""Because there were no anti-vaccine legislators in Toyama""
+""Because there were no anti-vaccine legislators in Toyama.""
 
-Anti-vaccine legislators are public…",no,https://twitter.com/twitter/status/1561362906180362241
-2022.08.21,14:41,1, ,"@nhk_news ワクチンは重症化しないためなので感染防止効果は期待できないですよね。
-１日も早く復帰されることを望みます‼️","@nhk_news You can't expect the effect of preventing infection because the vaccine doesn't get serious.
-I hope you can return as soon as possible! ️",hope,https://twitter.com/twitter/status/1561362944516292608
-2022.08.21,14:41, ,1,"RT @Galaxy_Collect: ★ワクチンの開発時間
+Anti-vaccine legislators are public…",no,https://twitter.com/twitter/status/1561596945034256384
+2022.08.22,6,11, ,1,RT @partyhike: せっかく打ったのに、ノーマスクで祭もできないワクチンなんて、何の存在意義もないだろ。,"RT @partyhike: There's no point in having a vaccine that doesn't have a mask and can't be held at a festival, even though it's been shot.",no,https://twitter.com/twitter/status/1561596941963628544
+2022.08.22,6,11, ,1,"ワクチンチン4回目打った(基礎疾患対象)
 
-　麻疹　　10年
-子宮頸がん　25年
-髄膜炎菌　　100年
-チフス　　100年
-HIV　未完成
-マラリア　未完成
-SARS　開発断念
+あとはもう打たんな
 
-コロナワクチン１年未満
+年に一回とかにしたい","Vaccinated 4 times (underlying disease target)
 
-70代以下は打つメリットないけど、精神衛生の為の物だ…","RT @Galaxy_Collect: Vaccine development time
+I can't hit anymore
 
-Measles 10 years
-Cervical cancer 25 years
-Meningococcus 100 years
-Typhus 100 years
-HIV incomplete
-Malaria unfinished
-SARS Abandoned development
+I want to do it once a year",disease,https://twitter.com/twitter/status/1561596939543941121
+2022.08.22,6,11, ,1,ルールを破って勝手にマスクを外したり声出しを解禁したり反ワクチン運動に精を出している人って、個人的にコロナ前から「発想が薄っぺらいな」「想像力がないな」「自分勝手だな」と思っていた人ばかりなんだよな。一般人、有名人問わず。,"People who break the rules and take off their masks without permission, lift the ban on speaking out, and work hard on the anti-vaccine movement have personally said that even before the corona, they had ""a thin idea,"" ""no imagination,"" and ""selfishness."" There are only people who thought that Both ordinary people and celebrities.",hard,https://twitter.com/twitter/status/1561597002664005634
+2022.08.22,6,11, ,1,"RT @Tanuk_Ichi: 自分は15年間ほど医者をやっているが
+""私は反ワクチンではありませんが...""
+と主張する人の中で反ワクチンではない人を見た事がない
+なお自分の中での反ワクチンの定義は
+""ワクチンに関する誤情報を拡散する事に熱心で、正しいデータや論文を提示される…","RT @Tanuk_Ichi: I've been a doctor for about 15 years
+""I'm not anti-vaccine, but...""
+I have never seen a person who is not anti-vaccine among those who claim that
+What is your definition of anti-vaccine?
+""Eager to spread misinformation about vaccines, presented with correct data and papers...",never,https://twitter.com/twitter/status/1561597002412089345
+2022.08.22,6,11, ,1,"RT @serast_km: 反コロナ反マスクの人達と話して気がついたのは彼らはみな「物凄く怖がり」だということなのだ。
+彼らはコロナを恐れ自分が感染して死ぬかもしれないことを心底こわがっているのだ。
+必死にコロナと死の恐怖を考えないようにしているのに、目の前でマスクをして感染…","RT @serast_km: Talking to the anti-corona anti-mask people, I've noticed that they are all ""extremely scared"".
+They are afraid of corona and are really afraid that they may be infected and die.
+I'm desperately trying not to think about corona and the fear of death, but I'm wearing a mask in front of me and getting infected...",fear,https://twitter.com/twitter/status/1561596998884634624
+2022.08.22,6,11, ,1,RT @genki_sudo: ワクチン3回目接種から3か月以内 発症を防ぐ効果65%…ということですが、重症化リスクが低くなっている中でたった3ヶ月、65%の効果の為に接種する必要性がわかりません。副反応や後遺症のリスクの方が気になる人は多いはずです。 https://t.c…,RT @genki_sudo: 65% effective in preventing onset within 3 months from the 3rd vaccination... but the need to inoculate for 65% effect for only 3 months while the risk of severe disease is low I do not know. There should be a lot of people who are more concerned about the risk of side effects and sequelae. https://t.c…,severe,https://twitter.com/twitter/status/1561596997093978112
+2022.08.22,6,12, ,1,"RT @Tamama0306: これが正常な報道です
 
-Corona vaccine less than 1 year
+🇦🇺オーストラリアのニュース詰め合わせ
 
-There's no merit to hitting people under 70, but it's for mental health...",no,https://twitter.com/twitter/status/1561362942939234305
-2022.08.21,14:41, ,1,"RT @onokid7: この後に及んでも汚いマスクし続けて、ワクチン何回も打つ
+コロナワクチンによる血栓症で集中治療室に運ばれました
+18歳の医療従事者が接種後に血栓になりました
+ファイザー製ワクチンで病気になった10代の少女が助けを求めています
 
-今の日本人に残念、悔しいって方多いと思うんですけど
+呪詛 ht…","RT @Tamama0306: this is normal coverage
 
-子供たちを救うために非科学的で汚いマスクを外しましょう、今回のワクチンは打たない方が良い
+🇦🇺 Australian News Pack
 
-当たり前の訴えを身近な医療関係者が誰も一緒に言っ…","RT @onokid7: Even after this, keep wearing a dirty mask and vaccinate many times
+I was taken to the intensive care unit for thrombosis from the corona vaccine
+18-year-old health care worker develops blood clots after vaccination
+Teenage girl sick from Pfizer vaccine seeks help
 
-I think there are a lot of people who feel sorry and frustrated with Japanese people today.
+curse ht…",sick,https://twitter.com/twitter/status/1561597050479083520
+2022.08.22,6,12, ,1,"RT @TotalWorld1: 「ワクチン接種のおもな目的は重症化を予防することであって、岸田氏が感染すること自体は不思議ではない」と言うネット記事を見ましたが、どこまで厚顔無恥なのか。
 
-Let's take off the unscientific and dirty mask to save the children, it's better not to hit the vaccine this time
+最初はワクチン接種したら、感染しないと言っていたのを忘れたとでも思っているのでしょうか…","RT @TotalWorld1: I saw an online article saying, ``The main purpose of vaccination is to prevent aggravation, and it is no wonder that Mr. Kishida is infected,'' but how shameless is it? .
 
-Everyone close to the medical staff said the obvious complaint together...",dirty,https://twitter.com/twitter/status/1561362940376514561
-2022.08.21,14:41, ,1,"RT @universalsoftw2: 米国疾病予防センター（CDC）の新しい新型コロナ感染に対する指針は、
+You think I forgot to say that if I get the vaccine in the first place, he won't get it...",no,https://twitter.com/twitter/status/1561597048318595073
+2022.08.22,6,12, ,1,"@fraisst 兄も弟も打ってない！
+ワクチンなんかどうでもよかったらしい👵
+
+時代と共にどんどん増えてく😭","@fraisst neither brother nor brother hit!
+I don't care about vaccines 👵
+
+Increasing more and more with time",neither,https://twitter.com/twitter/status/1561597046863560706
+2022.08.22,6,12, ,1,RT @diplo_geo: ワクチン推進のカラクリは、ファイザーの株主であるSGI(創価学会インターナショナル)とゲイツ財団が手を組み、学会員が多く在籍する厚労省と、製薬会社と癒着する感染症の専門家が旗振り役となり、日本政府の財源で大量にワクチンを購入し、総動員して国民に接種…,"RT @diplo_geo: Vaccine promotion mechanism is a partnership between SGI (Soka Gakkai International), a shareholder of Pfizer, and the Gates Foundation, and the Ministry of Health, Labor and Welfare, where many academic members are enrolled, and an infectious disease expert who is in close contact with pharmaceutical companies. became a flag bearer, purchased a large amount of vaccines with the financial resources of the Japanese government, and mobilized all to vaccinate the public.",disease,https://twitter.com/twitter/status/1561597046104428545
+2022.08.22,6,12,1, ,"なんか夏休みでワクチン接種頑張ったら第7波抑え込めたと思うけど、どうなんだろう
+岸田さんゴルフやってる暇あったら、その辺の指示出せただろ","I think I could have suppressed the 7th wave if I did my best to get vaccinated during the summer vacation, but what do you think?
+Mr. Kishida, if you had free time playing golf, you could have given instructions on that side.",best,https://twitter.com/twitter/status/1561597043868479488
+2022.08.22,6,12, ,1,"RT @nonaka_shin: 首相がコロナに感染したらワクチン接種後の効果は
+
+・確率の問題
+・感染予防効果ではなく重症予防効果
+
+と言われるんだけど...じゃー感染対策やめたら？重症予防するんでしょ。確率ってコロナの感染率0%目指してんの？しかも65％近い人が3回も接種し…","RT @nonaka_shin: What is the effect after vaccination if the prime minister is infected with corona?
+
+・probability problem
+・Severe disease prevention effect, not infection prevention effect
+
+That's what I'm told... so why don't you stop the infection? You want to prevent serious illness? Are you aiming for a probability of 0% infection rate of corona? Moreover, nearly 65% ​​of people vaccinated three times.",disease,https://twitter.com/twitter/status/1561597102555164674
+2022.08.22,6,12,1, ,RT @sivaprod: 安倍の「富士レビオに富士アビガンが世界を救う」も吉村松井の「大阪ワクチンが世界を救う」も防疫とか科学の話ではなく「いかにオトコのプライドを満足させられるか」ってネタでしかない。,"RT @sivaprod: Abe's ""Fuji Rebio saves the world with Fuji Avigan"" and Yoshimura Matsui's ""Osaka vaccine saves the world"" are not about epidemics or science, but ""How can you satisfy the pride of a man?"" It's just a story.",pride,https://twitter.com/twitter/status/1561597100663549952
+2022.08.22,6,12,1, ,RT @shingo19580312: 毎日新聞は偉い！内閣支持率が36%で不支持が54%だって！いい加減目を覚ませ！また国葬賛成が30%で反対が53%です！人の言うことが得意な人！これ民意だよ！聞こえないのなら辞めろ！ワクチン４回打ってゴルフして伊豆旅行して感染？車移動じゃ無…,"RT @shingo19580312: Mainichi Shimbun is great! Cabinet approval rate is 36% and disapproval is 54%! Come on wake up! 30% are in favor of a state funeral and 53% are against it. A person who is good at what people say! This is public opinion! If you can't hear me, quit! Infected by hitting the vaccine 4 times, playing golf and traveling to Izu? No need to move by car...",good,https://twitter.com/twitter/status/1561597089804480513
+2022.08.22,6,12,1, ,RT @KDystopia: 事例のなかの“ワクチンの効果ないんやね”、というのは別に「心ない言葉」ではないと思う。こういう現象から、ワクチンについて批判的に見ること自体、副反応で苦しんでいる人もいるわけで当然だと思う。 https://t.co/LPZEiBNIhz,"RT @KDystopia: I don't think that ""the vaccine doesn't work"" in the case is ""heartless words"". From this phenomenon, I think it's natural that there are people who are suffering from side effects when they look at vaccines critically. https://t.co/LPZEiBNIhz",natural,https://twitter.com/twitter/status/1561597088932040704
+2022.08.22,6,12,1, ,めっちゃ凹んだけど婦人科で薬もらったし遊びの日程調整したしイベント出展申し込んだしワクチン接種申し込んだし、今日の私は偉すぎる,"I was really depressed, but I got medicine from the gynecologist, adjusted the play schedule, applied for an event exhibition, applied for vaccinations, and I'm too proud today",proud,https://twitter.com/twitter/status/1561597087984525313
+2022.08.22,6,12,1, ,"RT @Awakend_Citizen: 「ノーマスク」「反ワクチン」の我々を批判する人は勘違いをしている
+
+我々は「ルール」や集団心理に逆らうことに酔っているわけではない
+むしろ正しく行動する常識人が多い
+
+しかしコロナに関しては、明らかに国民にとって良くない目的で誘導し「ル…","RT @Awakend_Citizen: Those who criticize us for ""no masks"" and ""anti-vaccine"" are mistaken
+
+We're not drunk on defying ""rules"" and group psychology
+Rather, there are many common sense people who act correctly
+
+However, regarding Corona, it is clearly not good for the people, and it is guided by ""ru...",good,https://twitter.com/twitter/status/1561597085694119937
+2022.08.22,6,12, ,1,"RT @Tamama0306: これが正常な報道です
+
+🇦🇺オーストラリアのニュース詰め合わせ
+
+コロナワクチンによる血栓症で集中治療室に運ばれました
+18歳の医療従事者が接種後に血栓になりました
+ファイザー製ワクチンで病気になった10代の少女が助けを求めています
+
+呪詛 ht…","RT @Tamama0306: this is normal coverage
+
+🇦🇺 Australian News Pack
+
+I was taken to the intensive care unit for thrombosis from the corona vaccine
+18-year-old health care worker develops blood clots after vaccination
+Teenage girl sick from Pfizer vaccine seeks help
+
+curse ht…",sick,https://twitter.com/twitter/status/1561597151901192193
+2022.08.22,6,12, ,1,"医者「私な、コロナの患者1000人ぐらい診てきたけどコロナで禿げた人もおったしワクチンで禿げた人もおったんよ〜」
+
+私「あはは…」
+
+そ　れ　が　一　番　嫌　で　す　。","Doctor: ""I've seen about 1,000 corona patients, and there were people who went bald because of the corona virus, and there were people who got bald because of the vaccine.""
+
+Me: ""Ahaha...""
+
+That's what I hate the most.",hate,https://twitter.com/twitter/status/1561597142837661696
+2022.08.22,6,12, ,1,"RT @Tanuk_Ichi: 子宮頸がんやHPVワクチンに関して凄まじい数の質問やDMが来るので、可能な範囲でこちらでお返事します。
+
+まず最も多い質問
+Q. ◯◯歳で性交渉の経験もあるんですけど、HPVワクチンは接種した方が良いんでしょうか？
+A. 26歳以下なら強く推奨、…","RT @Tanuk_Ichi: I get a tremendous number of questions and DMs about cervical cancer and HPV vaccines, so I'll answer them here as much as possible.
+
+First most common question
+Q. I am XX years old and have had sexual intercourse. Should I get the HPV vaccine?
+A. Strongly recommended if you are under 26,…",old,https://twitter.com/twitter/status/1561597125125095424
+2022.08.22,6,12, ,1,"RT @hiroya0416: 気づいてしまった...
+
+政治家がやるワクチン接種のお願い、推奨、強要もこれにあたる。。
+
+学校の先生が小学生に言うマスクつけなさいもこれにあたる。。
+
+とにかく医師免許を持たない人間に特定の疾患についてとやかく言われる筋合いはないんです🙆‍♂️…","RT @hiroya0416: I just noticed...
+
+Asking for, recommending, and coercing vaccinations by politicians also falls under this category. .
+
+This is what school teachers say to elementary school students to put on a mask. .
+
+Anyway, there is no right to talk about a specific disease to someone who doesn't have a medical license 🙆‍♂️...",no,https://twitter.com/twitter/status/1561597121148596225
+2022.08.22,6,12,1, ,"RT @yasu_boy: #4回目のワクチン 打ったのに #コロナ になっている人の話を聞いて、3回目のワクチンを打とうと思う人はいないと思う人はいいねとRTをお願いします。 
+
+#岸田総理 #岸田文雄 #岸田コロナ #ワクチン薬害 
+https://t.co/GjAcMdw…","RT @yasu_boy: Please like and RT if you don't think anyone will think about getting a third vaccine after listening to the story of a person who got #corona after getting the 4th vaccine.
+
+#Prime Minister Kishida #Fumio Kishida #Corona Kishida #Vaccine drug hazard
+https://t.co/GjAcMdw…",like,https://twitter.com/twitter/status/1561597203130396678
+2022.08.22,6,12,1, ,RT @takavet1: 欧米はあの手この手で、支配を続けるために、新しい枠組み、ルールを押し付けてきます。その際、巧妙に正義を振りかざし、善人を装います。日本を守るために欧米の策略には十分気をつけた方がいいです。無批判に受け入れるのはとても危険です。ワクチンしかり、SDGs…,"RT @takavet1: The West will do whatever it takes to impose new frameworks and rules in order to maintain its dominance. At that time, he skillfully brandishes justice and pretends to be a good person. In order to protect Japan, it is better to pay close attention to the strategies of Europe and the United States. Uncritical acceptance is very dangerous. Vaccines, SDGs...",good,https://twitter.com/twitter/status/1561597198550601728
+2022.08.22,6,12, ,1,RT @partyhike: 重症化リスクが低い若者には新機序のmRNAワクチンを様子見するという選択肢があったのに、医クラが何のエビデンスも存在せず厚労省ですら否定している『ワクチンで集団免疫』というデマを流し、『社会のため老人ために若者もワクチンを打て』という圧力を創り出し…,"RT @partyhike: Young people with a low risk of severe disease had the option of waiting for a new mechanism of mRNA vaccine, but the medical club has no evidence and even the Ministry of Health, Labor and Welfare denies it. Spreading the hoax of ""herd immunity with vaccines"" and creating pressure to ""vaccine young people for the sake of society and the elderly""...",severe,https://twitter.com/twitter/status/1561597192791396352
+2022.08.22,6,12,1, ,RT @partyhike: 岸田首相のワクチン4回目接種直後のコロナ感染が話題だけど、『最高権力者であるバイデン大統領も、日本のトップの岸田首相も4回目接種しているから、ワクチンは安全かつ効果的』と実に科学的な主張をしていた医者がいたんだけど、バイデンも岸田もきっちりコロナに…,"RT @partyhike: Prime Minister Kishida's corona infection immediately after the 4th vaccination is a hot topic, but ``President Biden, who is the most powerful person, and Prime Minister Kishida, who is the top of Japan, have been vaccinated for the 4th time, so the vaccine is safe and effective. There was a doctor who made a really scientific claim, but Biden and Kishida were exactly in Corona...",powerful,https://twitter.com/twitter/status/1561597192749871104
+2022.08.22,6,12, ,1,"RT @Volo0Cfpl: @kirikabu11 @mkmogura @junmurot コロナ精神病の方はこのニュースを見ても、「因果関係は不明」だけを見てワクチンで死んだ人はいない、と言い張りますから
+危機意識が根本的にズレてニブいから話しになりません","RT @Volo0Cfpl: @kirikabu11 @mkmogura @junmurot Even if people with corona psychosis see this news, they will insist that no one died from the vaccine just by looking at ""the causal relationship is unknown""
+I can't talk about it because my sense of crisis is fundamentally misaligned",no,https://twitter.com/twitter/status/1561597248685092864
+2022.08.22,6,12,1, ,"RT @Awakend_Citizen: 「ノーマスク」「反ワクチン」の我々を批判する人は勘違いをしている
+
+我々は「ルール」や集団心理に逆らうことに酔っているわけではない
+むしろ正しく行動する常識人が多い
+
+しかしコロナに関しては、明らかに国民にとって良くない目的で誘導し「ル…","RT @Awakend_Citizen: Those who criticize us for ""no masks"" and ""anti-vaccine"" are mistaken
+
+We're not drunk on defying ""rules"" and group psychology
+Rather, there are many common sense people who act correctly
+
+However, regarding Corona, it is clearly not good for the people, and it is guided by ""ru...",good,https://twitter.com/twitter/status/1561597241915473920
+2022.08.22,6,12, ,1,"RT @wolfhopp7: ワクチン接種は脳梗塞を引き起こす
+
+ワクチン接種は心筋炎を引き起こす
+
+反論の余地はない
+
+Dr.シェリー・テンペニー
+
+2022.7.13 https://t.co/YQuqV1mDUz","RT @wolfhopp7: vaccination causes stroke
+
+Vaccination causes myocarditis
+
+there is no room for objection
+
+Dr. Sherry Tenpenny
+
+2022.7.13 https://t.co/YQuqV1mDUz",no,https://twitter.com/twitter/status/1561597239746711553
+2022.08.22,6,12,1, ,"ワクチン入りの野菜をいっぱい作る予定です
+ビルゲイツさんは目覚めてる人間も逃がさない https://t.co/1kOUeJXKyi","I plan to grow a lot of vaccinated vegetables.
+Bill Gates does not let awake humans escape https://t.co/1kOUeJXKyi",awake,https://twitter.com/twitter/status/1561597235879559168
+2022.08.22,6,12,1, ,"RT @blanc0981: 普通は発熱無くても陽性なった人も含めるんですよ。それとて、無症状の人は拾えでない訳ですけど。
+それを発熱ありで限定すれば重症化（有症状化）予防効果が大きくなるのは明らかですよね
+ワクチンの重症化予防効果は確かにありますよ？
+でもこの数字を「有効率」…","RT @blanc0981: Normally, people who test positive without fever are also included. Besides, asymptomatic people cannot be picked up.
+It is clear that if you limit it to the presence of fever, the effect of preventing aggravation (symptoms) will increase.
+Is it true that vaccines are effective in preventing aggravation?
+But this number is the ""efficacy rate""...",positive,https://twitter.com/twitter/status/1561597233752973313
+2022.08.22,6,12, ,1,"RT @Mmiko08: もうすでに、遺伝子治療薬ワクチンやマスク社会でうつ病にされています。
+なんだかだるい倦怠感、頭痛、やる気が出ない、物忘れ、暗い気持ち…
+当たり前でしょ？
+病院に行けば、思春期によくある症状だ、更年期障害かな？高齢者によくあるね？そう言われて抗うつ剤が処…","RT @Mmiko08: Already depressed with gene therapy vaccines and mask society.
+Somewhat dull fatigue, headache, lack of motivation, forgetfulness, dark feelings...
+Why, of course!
+If you go to the hospital, it's a common symptom of puberty, is it menopause? It's common in the elderly, isn't it? That being said, the antidepressant was administered…",depressed,https://twitter.com/twitter/status/1561597232725790721
+2022.08.22,6,13,1, ,"@3Ufv5DLAO8kW9h3 陽性のtweetされたのを見逃しておりまして、ワクチンの副反応で大変なのかと思っていました💦
+どうかお大事に…。","@3Ufv5DLAO8kW9h3 I missed the positive tweet, and I was wondering if it was a serious side effect of the vaccine💦
+Please take care...",positive,https://twitter.com/twitter/status/1561597292649492480
+2022.08.22,6,13,1, ,"そんなの、
+わかっているし、
+ただの風邪。
+ワクチン詐欺 https://t.co/dIF1r42FvT","that kind of,
+I know and
+just a cold.
+Vaccine scam https://t.co/dIF1r42FvT",kind,https://twitter.com/twitter/status/1561597291508953089
+2022.08.22,6,12,1, ,"RT @io302: 成人がん患者が体調悪化で入院。新型コロナウイルス感染予防でイベルメクチン内服継続していて、院内でも騒然としていた。
+
+Twitter上では反ワクチンのイベルメクチン教は有名な話だが、一般集団ではまだ知られていないらしい。
+
+悪化の原因はどう考えてもイベルメ…","RT @io302: Adult cancer patient hospitalized due to deterioration. He continued to take ivermectin to prevent infection with the new coronavirus, and there was a lot of turmoil in the hospital.
+
+The anti-vaccine ivermectin cult is well-known on Twitter, but apparently still unknown to the general population.
+
+No matter how you look at it, the cause of the deterioration is Iverme…",patient,https://twitter.com/twitter/status/1561597281387757568
+2022.08.22,6,13, ,1,@kishida230 若者たちはもうワクチン接種しない方がいいし3回目打ったら本来の自分の免疫力が半分以上低下していくし、PCR検査も無料だからと言っても実際データーは正しく出してこないし、嘘のデーターがほぼ多い😡マスコミやTVや政府や医師や感染症研究科の人は煽って騙してる😡ワクチンやPCRはやめておくべき😡,"@kishida230 Young people shouldn't be vaccinated anymore, and after the third shot, their immune system will drop by more than half, and even if the PCR test is free, the actual data won't come out correctly. There is almost a lot of false data 😡The mass media, TV, the government, doctors, and people in the infectious disease research department are cheating and deceiving 😡Vaccines and PCR should be stopped 😡",disease,https://twitter.com/twitter/status/1561597335679152128
+2022.08.22,6,14, ,1,RT @partyhike: せっかく打ったのに、ノーマスクで祭もできないワクチンなんて、何の存在意義もないだろ。,"RT @partyhike: There's no point in having a vaccine that doesn't have a mask and can't be held at a festival, even though it's been shot.",no,https://twitter.com/twitter/status/1561597560724553729
+2022.08.22,6,14,1, ,"家族みんな感染してた
+仕方ない
+ワクチン打ってもかかってるのよ
+ワクチン信者おわかりか？？？
+押し付けすぎ
+厚労省あんたらもだ
+その結果が
+#コロナワクチン差別　👎👎👎👎","the whole family was infected
+it can not be helped
+It's taking a vaccine
+Do you know the vaccine believer? ? ?
+too much
+Ministry of Health, Labor and Welfare
+The result is
+#Corona vaccine discrimination 👎👎👎👎",whole,https://twitter.com/twitter/status/1561597559809794050
+2022.08.22,6,14,1, ,"RT @yasu_boy: #4回目のワクチン 打ったのに #コロナ になっている人の話を聞いて、3回目のワクチンを打とうと思う人はいないと思う人はいいねとRTをお願いします。 
+
+#岸田総理 #岸田文雄 #岸田コロナ #ワクチン薬害 
+https://t.co/GjAcMdw…","RT @yasu_boy: Please like and RT if you don't think anyone will think about getting a third vaccine after listening to the story of a person who got #corona after getting the 4th vaccine.
+
+#Prime Minister Kishida #Fumio Kishida #Corona Kishida #Vaccine drug hazard
+https://t.co/GjAcMdw…",like,https://twitter.com/twitter/status/1561597556286599168
+2022.08.22,6,14, ,1,"RT @sennonaifu: 3年も経って未だに武漢とか言うとるんか
+
+てかワクチン打ったら絶対罹らないとでも？","RT @sennonaifu: Do you still say Wuhan after 3 years?
+
+Even if you get a vaccine, you'll never get sick?",never,https://twitter.com/twitter/status/1561597619578683393
+2022.08.22,6,14,1, ,"RT @XY72530849: Deloris Cahill 教授:　mRNAワクチン接種者は3～5年以内に死亡
+
+mRNA ワクチンを接種した人は全員、たとえ1回しか接種しなくても、3～5年以内に死亡することを人々に正直に伝えなければならない
+
+#mRNA #医療試験 #ワク…","RT @XY72530849: Professor Deloris Cahill: mRNA vaccine recipients die within 3-5 years
+
+We have to be honest with people that everyone who gets an mRNA vaccine will die within 3-5 years, even if they only get one dose.
+
+#mRNA #Medical test #Wak...",honest,https://twitter.com/twitter/status/1561597619348000768
+2022.08.22,6,14,1, ,"RT @Awakend_Citizen: 「ノーマスク」「反ワクチン」の我々を批判する人は勘違いをしている
+
+我々は「ルール」や集団心理に逆らうことに酔っているわけではない
+むしろ正しく行動する常識人が多い
+
+しかしコロナに関しては、明らかに国民にとって良くない目的で誘導し「ル…","RT @Awakend_Citizen: Those who criticize us for ""no masks"" and ""anti-vaccine"" are mistaken
+
+We're not drunk on defying ""rules"" and group psychology
+Rather, there are many common sense people who act correctly
+
+However, regarding Corona, it is clearly not good for the people, and it is guided by ""ru...",good,https://twitter.com/twitter/status/1561597618878156800
+2022.08.22,6,14, ,1,"RT @kirikabu11: @junmurot ワクチン3回目接種後に男女2人が死亡したと発表。
+基礎疾患無し https://t.co/N1zRxYyWsZ","RT @kirikabu11: @junmurot Announced that two men and women died after the third vaccination.
+No underlying disease https://t.co/N1zRxYyWsZ",disease,https://twitter.com/twitter/status/1561597618480115712
+2022.08.22,6,14,1, ,しかし俺も一ヶ月前くらいに喉痛えという今と同じ症状あって、抗原は陰性だったものの、しばらくして普通に戻って、三回目ワクチン打って、今度も抗原とPCR陰性だったけど3日後にPCRやったら陽性というなんかよくわからん流れ,"However, I also had the same symptoms as now, such as a sore throat, about a month ago, and although the antigen was negative, it returned to normal after a while. I don't really understand how it's positive if you do PCR a day later",positive,https://twitter.com/twitter/status/1561597615581569024
+2022.08.22,6,14, ,1,"@mikicats26 そうなんですよ😥
+先生は食欲無かったり、様子が少しでも違う以外は無理して連れて来なくていいって仰るから、
+オシッコだけになるかもしれません。
+発作を抑える事が最優先なので、まだワクチンも打ってません。接種💉したら、もっと病院嫌いになるかもって言われました💦","@mikicats26 That's right😥
+Sensei says that you don't have to force yourself to bring him unless he has no appetite or looks a little different,
+It might just be pee.
+Suppressing seizures is the top priority, so I haven't hit the vaccine yet. I was told that if I get vaccinated 💉, I might hate hospitals even more💦",no,https://twitter.com/twitter/status/1561597669239582720
+2022.08.22,6,14, ,1,"RT @sakulux10271: @junmurot 医療を奪われてるのは非接種者の方のようですが。
+私のパートナーはワクチン打って3日後に突然目の前で心臓止まりましたよ。奇跡的に助かりましたが私は打ちません。テレビでワクチンを勧めるならどの程度リスクがメリットを上回っている…","RT @sakulux10271: @junmurot It seems that non-vaccinated people are deprived of medical care.
+My partner suddenly stopped in front of me 3 days after getting the vaccine. I miraculously survived, but I won't shoot. To what extent the risks outweigh the benefits of recommending vaccines on TV...",deprived,https://twitter.com/twitter/status/1561597652491726848
+2022.08.22,6,14,1, ,"RT @Awakend_Citizen: 「ノーマスク」「反ワクチン」の我々を批判する人は勘違いをしている
+
+我々は「ルール」や集団心理に逆らうことに酔っているわけではない
+むしろ正しく行動する常識人が多い
+
+しかしコロナに関しては、明らかに国民にとって良くない目的で誘導し「ル…","RT @Awakend_Citizen: Those who criticize us for ""no masks"" and ""anti-vaccine"" are mistaken
+
+We're not drunk on defying ""rules"" and group psychology
+Rather, there are many common sense people who act correctly
+
+However, regarding Corona, it is clearly not good for the people, and it is guided by ""ru...",good,https://twitter.com/twitter/status/1561597651786772481
+2022.08.22,6,14,1, ,"RT @GoodBye_Nuclear: 久住英二医師
+「たぶんこのワクチンの効果は10年以上続くと思います」（1回2回射ってですか？）「そうです」
+
+しばらくして
+「ワクチンってもともと3回射つのがスタンダード」
+
+こういう人物をよくテレビは使いますよね。地上波テレビは最大の…","RT @GoodBye_Nuclear: Dr. Eiji Kusumi
+""I think this vaccine will probably last for more than 10 years."" (Two shots once?) ""Yes.""
+
+After a while
+""The standard for vaccines is to inject three times.""
+
+People like this are often used on TV. Terrestrial television is the largest…",like,https://twitter.com/twitter/status/1561597715729231872
+2022.08.22,6,14, ,1,"暑い中で反マスク反ワクチン運動に勤しんでおられるかた
+「子供もチラシ受け取ってくれて熱心に読んでる。
+こうした我々の努力は必ず通じるって感じた。」
+てポエムっておられるけど
+多分それ子供らに面白がられてるだけやで？","Those who are working hard in the anti-mask and anti-vaccine movement in the heat
+""Children also received flyers and read them eagerly.
+We felt that our efforts would pay off. ”
+You're writing a poem
+Maybe it's just being amused by the kids?",hard,https://twitter.com/twitter/status/1561597715640791041
+2022.08.22,6,14,1, ,RT @2opHmazhbjjHvho: ワクチン未接種者はコロナに感染して苦しくなっても救急車は呼ぶな、家で我慢しろなどとツイートで公言する医師がいるとはいくらなんでも驚きます。ワクチンに対する認識が完全に間違っているうえに医師の倫理にも反しています。今の医学界がいかに異常な…,"RT @2opHmazhbjjHvho: I'm surprised that there are doctors who publicly declare in tweets that non-vaccinated people should not call an ambulance even if they are infected with Corona and suffer from it, and should endure at home. The recognition of vaccines is completely wrong and against the ethics of doctors. How strange the medical world is today...",surprised,https://twitter.com/twitter/status/1561597709794295808
+2022.08.22,6,14, ,1,"RT @hiroya0416: 気づいてしまった...
+
+政治家がやるワクチン接種のお願い、推奨、強要もこれにあたる。。
+
+学校の先生が小学生に言うマスクつけなさいもこれにあたる。。
+
+とにかく医師免許を持たない人間に特定の疾患についてとやかく言われる筋合いはないんです🙆‍♂️…","RT @hiroya0416: I just noticed...
+
+Asking for, recommending, and coercing vaccinations by politicians also falls under this category. .
+
+This is what school teachers say to elementary school students to put on a mask. .
+
+Anyway, there is no right to talk about a specific disease to someone who doesn't have a medical license 🙆‍♂️...",no,https://twitter.com/twitter/status/1561597700843634688
+2022.08.22,6,14,1, ,"僕はマスクもワクチンも要らないし、なんならライブでガンガン声出して良いと思ってるけど、主催者側がルールを定めた以上それには従うよ。
+リョクシャカ武道館もちゃんと決められたルールに従うつもり。
+アーティストに迷惑だからじゃないよ。
+人として当然だろ。
+規制退場も出来ない奴は来んな🥺","I don't need masks or vaccines, and I think it's fine to shout loudly at live shows, but as long as the organizers have set the rules, I'll follow them.
+Ryokshaka Budokan also intends to follow the established rules.
+It's not because it bothers the artists.
+As a person, of course.
+Don't come if you can't even get out of regulation 🥺",fine,https://twitter.com/twitter/status/1561597768237346816
+2022.08.22,6,14,1, ,"@shinya1043 @nekodawan55 @momosuk50019360 @MIKITO_777 何度か接種しなければ感染予防効果が期待できないワクチンなど危なくてしょうがないわ。
+
+ワクチンて劇薬ですよ！　年に２回も３回も、ましてや４回と接種するような安全なものではない。
+
+こちらが提示した分科会の方向に関する情報は厚生労働省の大臣記者会見の内容を記録した公文書から引用したもの","@shinya1043 @nekodawan55 @momosuk50019360 @MIKITO_777 Vaccines that can't be expected to be effective in preventing infection are dangerous unless they are vaccinated several times.
+
+Vaccines are powerful drugs! It's not safe to vaccinate two, three, or even four times a year.
+
+The information about the direction of the subcommittee presented here is quoted from official documents recording the contents of the minister's press conference of the Ministry of Health, Labor and Welfare.",powerful,https://twitter.com/twitter/status/1561597767235284992
+2022.08.22,6,14, ,1,@8mkPkSr46Ti5uag ワクチン効果もありますが 、重症化率が大きく下がりましたね。 https://t.co/yxwXvxxoCt,"@8mkPkSr46Ti5uag There is also a vaccine effect, but the rate of severe disease has greatly decreased. https://t.co/yxwXvxxoCt",severe,https://twitter.com/twitter/status/1561597752886251520
+2022.08.22,6,15, ,1,"RT @Mmiko08: もうすでに、遺伝子治療薬ワクチンやマスク社会でうつ病にされています。
+なんだかだるい倦怠感、頭痛、やる気が出ない、物忘れ、暗い気持ち…
+当たり前でしょ？
+病院に行けば、思春期によくある症状だ、更年期障害かな？高齢者によくあるね？そう言われて抗うつ剤が処…","RT @Mmiko08: Already depressed with gene therapy vaccines and mask society.
+Somewhat dull fatigue, headache, lack of motivation, forgetfulness, dark feelings...
+Why, of course!
+If you go to the hospital, it's a common symptom of puberty, is it menopause? It's common in the elderly, isn't it? That being said, the antidepressant was administered…",depressed,https://twitter.com/twitter/status/1561597809253818370
+2022.08.22,6,15, ,1,"RT @nagunagumomo: ワクチンを推進していた医療従事者は積極的に4回目のワクチンを打ち、秋にリリースされるオミクロン用のワクチンを5回目として接種してください。その後も継続して打つようにしてくださいね。
+
+私は今後もワクチンは打ちません。どちらが健康で長生きするか…","RT @nagunagumomo: Medical workers who have been promoting vaccines should actively take the 4th vaccine, and the Omicron vaccine released in the fall as the 5th dose. Please continue to shoot after that.
+
+I will never vaccinate again. Which one is healthier and lives longer?",never,https://twitter.com/twitter/status/1561597803544973315
+2022.08.22,6,15, ,1,"RT @io302: 妊婦・夫共に新型コロナウイルスワクチン未接種の夫婦。隔離期間は終わったのだが、発熱が続き入院している。
+
+入院中だが夫婦そろって『もうかかったからいいじゃん』とノーマスク。医療者へのクレームも絶えない
+
+結局ワクチン打たない、マスクつけない、って人達がなぜ…","RT @io302: Pregnant women and husbands who have not been vaccinated against the new coronavirus. The isolation period is over, but the fever continues and he is hospitalized.
+
+Although he is in the hospital, he and his wife both said, ""It's okay because it's already taken,"" and no mask. Complaints to medical staff are constant
+
+Why do people say they don't get vaccinated and don't wear masks after all...",no,https://twitter.com/twitter/status/1561597801892818944
+2022.08.22,6,15,1, ,"RT @IkedaKiyohiko: 4回目受けてもコロナに感染した岸田さん。
+大過ないといいですね。ワクチン効かないみたいね。","RT @IkedaKiyohiko: Mr. Kishida, who was infected with Corona even after taking the 4th time.
+I hope it's not too much. The vaccine doesn't seem to work.",hope,https://twitter.com/twitter/status/1561597799040368642
+2022.08.22,6,15, ,1,"RT @mama06272022: 今、とても怒っていること。
+私は、１日も早くコロナ禍を終わらせたい一心で、自分でも納得した上でワクチン３回を打ちました。
+その後、現実世界の状況と、ワクチン推進派の先生方の発言の整合性が合わないことから、コロナワクチンに懐疑的な気持ちを抱き始…","RT @mama06272022: I'm so angry right now.
+I wanted to put an end to the corona crisis as soon as possible, so I gave myself three shots of the vaccine after convincing myself.
+After that, I started to have skepticism about the corona vaccine because the real world situation and the statements of the vaccine-promoting teachers did not match.",angry,https://twitter.com/twitter/status/1561597797702311936
+2022.08.22,6,15, ,1,RT @QtboH54wc6yFboa: @junmurot 病院勤務です。救急車呼んでるのワクチン済みの人かその家族です。亡くなるのは寿命年齢が多い。それも持病で亡くなるけど陽性だから治療はほぼ出来ず、勿論接種済み〜,"RT @QtboH54wc6yFboa: @junmurot I work at a hospital. It's the vaccinated person or his family who's calling the ambulance. Many people die at the end of their lifespan. He also died of a chronic disease, but since it was positive, it was almost impossible to treat, and of course he had been vaccinated ~",impossible,https://twitter.com/twitter/status/1561597859488989185
+2022.08.22,6,15, ,1,"RT @genki_sudo: オミクロン未対応5億回分は廃棄の可能性大
+
+もはや国はコロナ対策のポーズか、ワクチンの購入そのものが目的になっている。ワクチンの購入費用は国会審議を必要としない予備費で賄われることから、財政規律が緩んでいるとの批判は避けられない。(小島勢ニ名古屋…","RT @genki_sudo: 500 million doses not compatible with Omicron are likely to be discarded
+
+The country is no longer a pose for corona countermeasures, or the purchase of vaccine itself is the purpose. Since the cost of purchasing vaccines is covered by reserve funds that do not require parliamentary deliberations, it is inevitable that the government will be criticized for its lax fiscal discipline. (Kojima Senni Nagoya…",no,https://twitter.com/twitter/status/1561597856049696768
+2022.08.22,6,15, ,1,"RT @debu304: あとマスク着ける着けない
+ワクチン打つ打たない
+は個人の自由だからどーでもいいんだけど
+
+マスクを着けないと入店出来ない
+
+などのルールを守れない人は
+法的にとか科学的にとかすっ飛ばして
+
+しぬほどきらいです","RT @debu304: I can't wear a mask
+vaccine shot
+is personal freedom so it doesn't matter
+
+You cannot enter the store without wearing a mask.
+
+People who can't follow rules such as
+Skip legally or scientifically
+
+I hate it so much",hate,https://twitter.com/twitter/status/1561597909967458305
+2022.08.22,6,15,1, ,RT @takavet1: 欧米はあの手この手で、支配を続けるために、新しい枠組み、ルールを押し付けてきます。その際、巧妙に正義を振りかざし、善人を装います。日本を守るために欧米の策略には十分気をつけた方がいいです。無批判に受け入れるのはとても危険です。ワクチンしかり、SDGs…,"RT @takavet1: The West will do whatever it takes to impose new frameworks and rules in order to maintain its dominance. At that time, he skillfully brandishes justice and pretends to be a good person. In order to protect Japan, it is better to pay close attention to the strategies of Europe and the United States. Uncritical acceptance is very dangerous. Vaccines, SDGs...",good,https://twitter.com/twitter/status/1561597909921337345
+2022.08.22,6,50, ,1,"RT @Tamama0306: これが正常な報道です
+
+🇦🇺オーストラリアのニュース詰め合わせ
+
+コロナワクチンによる血栓症で集中治療室に運ばれました
+18歳の医療従事者が接種後に血栓になりました
+ファイザー製ワクチンで病気になった10代の少女が助けを求めています
+
+呪詛 ht…","RT @Tamama0306: this is normal coverage
+
+🇦🇺 Australian News Pack
+
+I was taken to the intensive care unit for thrombosis from the corona vaccine
+18-year-old health care worker develops blood clots after vaccination
+Teenage girl sick from Pfizer vaccine seeks help
+
+curse ht…",sick,https://twitter.com/twitter/status/1561606662242574336
+2022.08.22,6,50,1, ,"RT @io302: 成人がん患者が体調悪化で入院。新型コロナウイルス感染予防でイベルメクチン内服継続していて、院内でも騒然としていた。
+
+Twitter上では反ワクチンのイベルメクチン教は有名な話だが、一般集団ではまだ知られていないらしい。
+
+悪化の原因はどう考えてもイベルメ…","RT @io302: Adult cancer patient hospitalized due to deterioration. He continued to take ivermectin to prevent infection with the new coronavirus, and there was a lot of turmoil in the hospital.
+
+The anti-vaccine ivermectin cult is well-known on Twitter, but apparently still unknown to the general population.
+
+No matter how you look at it, the cause of the deterioration is Iverme…",patient,https://twitter.com/twitter/status/1561606661428871168
+2022.08.22,6,50,1, ,RT @o2VseNrtPRwVAOF: @partyhike ワクチンをPCR検査したら、陽性になるんじゃない❓,"RT @o2VseNrtPRwVAOF: @partyhike If you PCR test the vaccine, it will be positive ❓",positive,https://twitter.com/twitter/status/1561606660824502272
+2022.08.22,7,3,1, ,"RT @Awakend_Citizen: 「ノーマスク」「反ワクチン」の我々を批判する人は勘違いをしている
+
+我々は「ルール」や集団心理に逆らうことに酔っているわけではない
+むしろ正しく行動する常識人が多い
+
+しかしコロナに関しては、明らかに国民にとって良くない目的で誘導し「ル…","RT @Awakend_Citizen: Those who criticize us for ""no masks"" and ""anti-vaccine"" are mistaken
+
+We're not drunk on defying ""rules"" and group psychology
+Rather, there are many common sense people who act correctly
+
+However, regarding Corona, it is clearly not good for the people, and it is guided by ""ru...",good,https://twitter.com/twitter/status/1561610074686369792
+2022.08.22,7,3, ,1,"RT @nagunagumomo: 新型コロナはただの風邪ではない、後遺症に悩んでいる人もいる。という意見は否定しません。
+
+しかし、それがワクチンを接種したり、マスクをする事と何か関係があるのですか？","RT @nagunagumomo: The new corona is not just a cold, some people are suffering from aftereffects. I do not deny the opinion.
+
+But what does that have to do with getting vaccinated or wearing a mask?",deny,https://twitter.com/twitter/status/1561610072090103808
+2022.08.22,7,3,1, ,"RT @io302: 成人がん患者が体調悪化で入院。新型コロナウイルス感染予防でイベルメクチン内服継続していて、院内でも騒然としていた。
+
+Twitter上では反ワクチンのイベルメクチン教は有名な話だが、一般集団ではまだ知られていないらしい。
+
+悪化の原因はどう考えてもイベルメ…","RT @io302: Adult cancer patient hospitalized due to deterioration. He continued to take ivermectin to prevent infection with the new coronavirus, and there was a lot of turmoil in the hospital.
+
+The anti-vaccine ivermectin cult is well-known on Twitter, but apparently still unknown to the general population.
+
+No matter how you look at it, the cause of the deterioration is Iverme…",patient,https://twitter.com/twitter/status/1561610065094004741
+2022.08.22,7,4, ,1,"RT @kirikabu11: @junmurot ワクチン3回目接種後に男女2人が死亡したと発表。
+基礎疾患無し https://t.co/N1zRxYyWsZ","RT @kirikabu11: @junmurot Announced that two men and women died after the third vaccination.
+No underlying disease https://t.co/N1zRxYyWsZ",disease,https://twitter.com/twitter/status/1561610144139526145
+2022.08.22,7,4, ,1,"RT @Tanuk_Ichi: その後、朝日新聞に負けじと日本の愚かなあらゆるメディアが反HPVワクチン報道を展開
+NHKなども含めて反ワクチン議員の池田としえらを時代の寵児として祭り上げる。
+クローズアップ現代のURLはしれっと削除済(魚拓求む) https://t.co/Y…","RT @Tanuk_Ichi: After that, every stupid media in Japan developed anti-HPV vaccine coverage to lose to Asahi Shimbun
+Including NHK, Ikeda Toshiera, an anti-vaccine lawmaker, will be celebrated as the darling of the times.
+Close-up modern URL has been deleted (seeking fish print) https://t.co/Y…",stupid,https://twitter.com/twitter/status/1561610142608916481
+2022.08.22,7,4, ,1,"RT @Tanuk_Ichi: Q. 日本の反HPVワクチン報道による悪影響は？
+A. 大阪大学が試算を出していますが、2000-2003年生まれの日本人女性の17000人が本来なら防げた子宮頸がんを発症し、約4000人が死亡する見込みです。
+個人的にはマスコミによる、そして行…","RT @Tanuk_Ichi: Q. What are the negative effects of Japan's anti-HPV vaccine coverage?
+A. According to estimates by Osaka University, 17,000 Japanese women born between 2000 and 2003 will develop cervical cancer, which could otherwise have been prevented, and about 4,000 are expected to die.
+Personally, by the press and by the line…",negative,https://twitter.com/twitter/status/1561610140952178690
+2022.08.22,9,50, ,1,"ワクチン未接種者の何が憎いのだろうかねぇ。
+自分が打ってしまったことが相当悔しいのか？
+
+妬み嫉みやっかみの極み","What do you hate about non-vaccinated people?
+Are you really sorry that you hit yourself?
+
+The height of envy, jealousy and resentment",hate,https://twitter.com/twitter/status/1561652046767747073
+2022.08.22,9,50, ,1,"RT @0eV2DbKhcDYfFd8: やっと踏み込んだ記事が世間的に出始めましたね。🤔
+遅すぎるくらい。。
+
+ワクチン後遺症　ファイザー社の有害事象報告書と国内の症例報告（サンテレビ） https://t.co/cPNPifdRCi","RT @0eV2DbKhcDYfFd8: Articles that finally stepped into the world began to appear. 🤔
+too late. .
+
+Vaccine sequelae Pfizer's adverse event report and domestic case report (Sun TV) https://t.co/cPNPifdRCi",adverse,https://twitter.com/twitter/status/1561652042493759488
+2022.08.22,9,50, ,1,"RT @Tanuk_Ichi: 子宮頸がんやHPVワクチンに関して凄まじい数の質問やDMが来るので、可能な範囲でこちらでお返事します。
+
+まず最も多い質問
+Q. ◯◯歳で性交渉の経験もあるんですけど、HPVワクチンは接種した方が良いんでしょうか？
+A. 26歳以下なら強く推奨、…","RT @Tanuk_Ichi: I get a tremendous number of questions and DMs about cervical cancer and HPV vaccines, so I'll answer them here as much as possible.
+
+First most common question
+Q. I am XX years old and have had sexual intercourse. Should I get the HPV vaccine?
+A. Strongly recommended if you are under 26,…",old,https://twitter.com/twitter/status/1561652040748580864
+2022.08.22,9,50,1, ,"RT @Rio86743771: サンテレビ、素晴らしい✨
+#ワクチン薬害
+#ワクチン 
+#ワクチン中止を求めます","RT @Rio86743771: Sun TV, great ✨
+#Vaccine phytotoxicity
+#vaccination 
+# Call for cessation of vaccines",great,https://twitter.com/twitter/status/1561652038408486912
+2022.08.22,9,50,1, ,"RT @neko_no_misoni: 海外はこう！日本は未だに無駄なマスクしてる！！っていう人は比較対象の国のワクチン普及率と医療逼迫の度合いと2020年4月以降の政策の差を全部把握しとんやろな？？
+結果だけ見て過程や要因を無視するような主張で誰も動かんやろ
+人と違う自分かっ…","RT @neko_no_misoni: Overseas like this! Japan still wears useless masks! ! For those who say, do you understand all the differences between the vaccine penetration rate and the degree of medical tightness in the countries to be compared, and the policies after April 2020? ?
+No one will move with an argument that looks only at the result and ignores the process and factors
+I know I'm different...",like,https://twitter.com/twitter/status/1561652035233411073
+2022.08.22,9,50, ,1,最初から知ってたくせに【国がコロナワクチンを毒物と認める】厚労省分科会、コロナワクチン接種により健康被害を受けた29人の因果関係を認める https://t.co/owobswQias https://t.co/SOnp29eG6X,"Even though I knew it from the beginning [The country recognizes the corona vaccine as a poison] The Ministry of Health, Labor and Welfare subcommittee acknowledges the causal relationship of 29 people who suffered health damage due to the corona vaccination https://t.co/owobswQias https:/ /t.co/SOnp29eG6X",damage,https://twitter.com/twitter/status/1561652035178868737
+2022.08.22,9,50,1, ,"RT @BagingBaging: 「未接種者はコロナになっても税金つかうなよ」
+↑こんな事言う奴がいるが、だったら逆に
+・ワクチンに使った税金
+・無意味な感染対策に使った税金
+・コロナ脳が陽性で使った高額医療費（入院で100万とか170万とか）
+↑これら全部接種者で払えよw…","RT @BagingBaging: ""Non-vaccinated people should not pay taxes even if they become corona""
+↑ There are people who say this, but if so, it's the other way around
+・Taxes spent on vaccines
+・ Taxes used for meaningless infection control
+・ High medical expenses used for positive corona brain (1 million or 1.7 million for hospitalization)
+↑ All these must be paid by the vaccinated person w...",positive,https://twitter.com/twitter/status/1561652034587492352
+2022.08.22,12,25, ,1,"RT @hanayuu: @GoodBye_Nuclear #ワクチン副反応  
+神戸サンテレビ動画ニュース（１３分間）
+「#ワクチン後遺症  ファイザー社の有害事象報告書と国内の症例報告」
+https://t.co/Xcktj7hmzi
+◆ギラン・バレー症候群　「重要な基本的…","RT @hanayuu: @GoodBye_Nuclear # vaccine side reaction
+Kobe Sun TV video news (13 minutes)
+“#Vaccine sequelae Pfizer adverse event report and domestic case report”
+https://t.co/Xcktj7hmzi
+◆ Guillain-Barré Syndrome ""Important basics...",adverse,https://twitter.com/twitter/status/1561691023587561472
+2022.08.22,12,25,1, ,RT @molbio08: まじめな国民がせっせとブースター接種に励んだ結果我が国は4週連続で世界一の感染拡大王国に。接種するとワクチン効果はすぐ失われてより感染しやすくなる。さらに新たな変異型も登場し、そのためさらなる追加が必要になってくる。接種を繰り返すと免疫抑制がさらに進…,"RT @molbio08: As a result of diligent booster vaccinations by diligent citizens, our country has become the world's most infected kingdom for four consecutive weeks. Once vaccinated, the effectiveness of the vaccine is quickly lost and the person becomes more susceptible to infection. In addition, new variants will also appear, so more additions will be needed. Immunosuppression progresses further with repeated inoculations.",result,https://twitter.com/twitter/status/1561691018944483328
+2022.08.22,12,25, ,1,"RT @suntv3: ワクチン後遺症　ファイザー社の有害事象報告書と国内の症例報告(サンテレビ)
+＃新型コロナ ＃ワクチン ＃後遺症 #サンテレビニュース
+https://t.co/W3VQvXKkwQ","RT @suntv3: Vaccine sequelae Pfizer's adverse event report and domestic case report (Sun TV)
+#New Corona #Vaccine #Aftereffects #Sun TV News
+https://t.co/W3VQvXKkwQ",adverse,https://twitter.com/twitter/status/1561691017254174722
+2022.08.22,12,25,1, ,ワンオクのやつ、一部のイタイファンにこういう話題にすぐ便乗する反ワクチン反マスク茶番ジジイババアとただ逆張りしたいだけのバカが擁護していて仲良くなっちゃって合同結婚不可避,"The One Ok guy, an anti-vaccine anti-mask farce who immediately jumps on this kind of topic for some Italian fans.",kind,https://twitter.com/twitter/status/1561691077907587072
+2022.08.22,12,25,1, ,"RT @RTAinJapan: 『RTA in Japan Winter 2022』の応募フォームを公開しました！
+応募開始は8/27(土)21:00からとなりますので、内容をよく読んでお待ちください！
+なお、今回も会場に来場される方は、新型コロナワクチンの2回以上の接種完了が…","RT @RTAinJapan: The application form for ""RTA in Japan Winter 2022"" has been released!
+Applications will be accepted from 8/27 (Sat) at 21:00, so please read the details carefully before waiting!
+In addition, if you are visiting the venue again this time, you must complete two or more vaccinations of the new corona vaccine.",complete,https://twitter.com/twitter/status/1561691071775936512
+2022.08.22,12,25,1, ,"RT @BB45_Colorado: 9. mRNAワクチンでは心筋炎・心膜炎などのたいへん希な疾患が副反応として優位に発生する
+
+10. タンパク質抗原ワクチンでも心膜炎がファイザー並みに出現する100万人規模統計がある","RT @BB45_Colorado: 9. Very rare diseases such as myocarditis and pericarditis occur predominantly as side effects with mRNA vaccines
+
+10. There is a statistic of 1 million people that pericarditis occurs even with protein antigen vaccine as well as Pfizer",well,https://twitter.com/twitter/status/1561691071641313280
+2022.08.22,12,25,1, ,"RT @BB45_Colorado: まだ学術的報告がないが、懸念されていること
+
+12. 第1世代ワクチンの運用による抗原原罪＊の発生
+
+＊最初に応答した抗原を人体が記憶してしまい、類似した他の抗原への応答ができなくなること。ウイルスの変異などによる抗原の変化に応答できず、有…","RT @BB45_Colorado: No academic reports yet, but concerns
+
+12. Occurrence of original antigenic sin* due to the use of first-generation vaccines
+
+* The human body remembers the first antigen it responds to, and becomes unable to respond to other similar antigens. Inability to respond to changes in antigens due to viral mutations, etc.",original,https://twitter.com/twitter/status/1561691132819435521
+2022.08.22,12,25,1, ,"ヘルペス出来た、実は私も出来ました〜😭
+（そんなに出来るもの？）
+
+カロナール飲んだ、常備してるから安心。
+（うーん😥）
+
+ワクチン接種に行ったかかりつけ医が""特別""に診てくれた。常連だからかな？
+（ｽﾐﾏｾﾝそこ、私がヤブ医者認定してる医院です😅）
+
+流石に思った事は口にはしませんけど🤭","I got herpes, actually I got it too 😭
+(Is that possible?)
+
+I drank caronal, so I'm safe because I always have it.
+(Hmm 😥)
+
+The family doctor who went to get the vaccine gave me a ""special"" checkup. Is it because they are regulars?
+(Sorry, that's the clinic where I'm a certified doctor 😅)
+
+As expected, I won't say what I thought, but 🤭",safe,https://twitter.com/twitter/status/1561691132815220737
+2022.08.22,12,25, ,1,"RT @TotalWorld1: 「ワクチン接種のおもな目的は重症化を予防することであって、岸田氏が感染すること自体は不思議ではない」と言うネット記事を見ましたが、どこまで厚顔無恥なのか。
+
+最初はワクチン接種したら、感染しないと言っていたのを忘れたとでも思っているのでしょうか…","RT @TotalWorld1: I saw an online article saying, ``The main purpose of vaccination is to prevent aggravation, and it is no wonder that Mr. Kishida is infected,'' but how shameless is it? .
+
+You think I forgot to say that if I get the vaccine in the first place, he won't get it...",no,https://twitter.com/twitter/status/1561691126985560066
+2022.08.22,12,26,1, ,"RT @GoodBye_Nuclear: 久住英二医師
+「たぶんこのワクチンの効果は10年以上続くと思います」（1回2回射ってですか？）「そうです」
+
+しばらくして
+「ワクチンってもともと3回射つのがスタンダード」
+
+こういう人物をよくテレビは使いますよね。地上波テレビは最大の…","RT @GoodBye_Nuclear: Dr. Eiji Kusumi
+""I think this vaccine will probably last for more than 10 years."" (Two shots once?) ""Yes.""
+
+After a while
+""The standard for vaccines is to inject three times.""
+
+People like this are often used on TV. Terrestrial television is the largest…",like,https://twitter.com/twitter/status/1561691188239147008
+2022.08.22,12,26,1, ,RT @hpvvwisdom: たぬきち氏は「ワクチンの副反応が問題になって積極勧奨が中止されたのはマスコミの反ワクキャンペーンのせい」と主張する陰謀論者なのですが、そんなキャンペーンをしているはずのマスコミが「訴訟を熱心に追わなくなった」とも書いていて、主張に矛盾をきたしてい…,"RT @hpvvwisdom: Mr. Tanukichi is a conspiracy theorist who claims that ``the reason for the suspension of active recommendation due to the side effects of the vaccine was the anti-vaccine campaign in the mass media.'' The media also wrote that they ""couldn't pursue lawsuits as enthusiastically"", which contradicts their claims...",active,https://twitter.com/twitter/status/1561691188000083968
+2022.08.22,12,26, ,1,"RT @iPEbuN8uMQEd0mZ: 大手民放のワクチンのCMが
+今までは政府CMやったけど
+しれっとスポンサーがファイザーに変わってる模様
+大手新聞のワクチン広告も
+
+これでワクチン被害を大手メディアで取り上げる事はなくなるやろな
+
+今までもほとんど取り上げられてないから…","RT @iPEbuN8uMQEd0mZ: CM of a major commercial vaccine
+Until now, I've done government commercials
+It seems that the sponsor has changed to Pfizer
+Vaccine ads in major newspapers
+
+With this, vaccine damage will no longer be covered by major media.
+
+It hasn't been mentioned much so far...",damage,https://twitter.com/twitter/status/1561691183327260672
+2022.08.22,12,26, ,1,"RT @fxi9ttSrGrL5Hnx: ついに、75年間隠し続けるつもりだったファイザーワクチンの有害事象1291例や接種後死亡1223人等のが含まれる機密文書が裁判に負け公開されている事実を神戸のサンテレビが取り上げられた。
+
+国会でその事実が追及され厚労省がその事実を認め…","RT @fxi9ttSrGrL5Hnx: Finally, Sun TV in Kobe picked up the fact that confidential documents including 1291 cases of adverse events of Pfizer vaccine and 1223 deaths after vaccination, which were intended to be hidden for 75 years, were released in court. rice field.
+
+The fact was investigated in the Diet and the Ministry of Health, Labor and Welfare acknowledged the fact...",adverse,https://twitter.com/twitter/status/1561691182341959680
+2022.08.22,12,26, ,1,RT @diplo_geo: ワクチン推進のカラクリは、ファイザーの株主であるSGI(創価学会インターナショナル)とゲイツ財団が手を組み、学会員が多く在籍する厚労省と、製薬会社と癒着する感染症の専門家が旗振り役となり、日本政府の財源で大量にワクチンを購入し、総動員して国民に接種…,"RT @diplo_geo: Vaccine promotion mechanism is a partnership between SGI (Soka Gakkai International), a shareholder of Pfizer, and the Gates Foundation, and the Ministry of Health, Labor and Welfare, where many academic members are enrolled, and an infectious disease expert who is in close contact with pharmaceutical companies. became a flag bearer, purchased a large amount of vaccines with the financial resources of the Japanese government, and mobilized all to vaccinate the public.",disease,https://twitter.com/twitter/status/1561691179292377088
+2022.08.22,12,26, ,1,"RT @Tamama0306: これが正常な報道です
+
+🇦🇺オーストラリアのニュース詰め合わせ
+
+コロナワクチンによる血栓症で集中治療室に運ばれました
+18歳の医療従事者が接種後に血栓になりました
+ファイザー製ワクチンで病気になった10代の少女が助けを求めています
+
+呪詛 ht…","RT @Tamama0306: this is normal coverage
+
+🇦🇺 Australian News Pack
+
+I was taken to the intensive care unit for thrombosis from the corona vaccine
+18-year-old health care worker develops blood clots after vaccination
+Teenage girl sick from Pfizer vaccine seeks help
+
+curse ht…",sick,https://twitter.com/twitter/status/1561691237572296706
+2022.08.22,12,26, ,1,"RT @heyy_ime: コロナワクチン接種券に同封されている説明書。
+
+きちんと読みましたか？
+
+『感染予防効果は明らかになっていない。使用されたことのない添加物が含まれている。明らかになっていない副反応が出る可能性がある。』
+
+と書いてあります。
+
+そして、一体何が入って…","RT @heyy_ime: Instructions enclosed with the corona vaccination ticket.
+
+Did you read it properly?
+
+“Its efficacy in preventing infection is unknown. It contains additives that have never been used. Unexplained side effects may occur. 』
+
+is what it reads.
+
+And what's in it...",never,https://twitter.com/twitter/status/1561691231318872064
+2022.08.22,12,26,1, ,"ワクチン後遺症について民放もやっと報道してくれるようになってきた。
+ワクチンに慎重になる人が増えるといいな。 https://t.co/leBf5S7LVc","Commercial broadcasters are finally starting to report on the aftereffects of vaccines.
+I hope more people will be cautious about vaccines. https://t.co/leBf5S7LVc",hope,https://twitter.com/twitter/status/1561691231192633344
+2022.08.22,12,26,1, ,"RT @obgyntommy: HPVワクチンの接種1997-2006年度生まれの方は今なら無料です📣
+
+積極的勧奨が差控えられていた期間に定期予防接種の対象であった方の中には、通知が届かず無料接種の機会を逃してしまった人が多いです。上記の女性を対象に、特例で2022年4月から…","RT @obgyntommy: HPV vaccination is now free for those born in 1997-2006📣
+
+Among those who were eligible for routine immunization during the period when active recommendation was withheld, many missed the opportunity to receive free vaccinations because they did not receive notifications. For the above women, from April 2022 as a special case...",free,https://twitter.com/twitter/status/1561691289850384386
+2022.08.22,12,26,1, ,"RT @XY72530849: Deloris Cahill 教授:　mRNAワクチン接種者は3～5年以内に死亡
+
+mRNA ワクチンを接種した人は全員、たとえ1回しか接種しなくても、3～5年以内に死亡することを人々に正直に伝えなければならない
+
+#mRNA #医療試験 #ワク…","RT @XY72530849: Professor Deloris Cahill: mRNA vaccine recipients die within 3-5 years
+
+We have to be honest with people that everyone who gets an mRNA vaccine will die within 3-5 years, even if they only get one dose.
+
+#mRNA #Medical test #Wak...",honest,https://twitter.com/twitter/status/1561691286188335105
+2022.08.22,12,26, ,1,"是非ともみなさん知ってください。
+ワクチンがあるってことは、それくらい防がなきゃいけない病ってこと。
+命が救えるワクチンなんです。 https://t.co/oDqGjidVUm","Please let everyone know.
+The fact that there is a vaccine means that it is a disease that must be prevented.
+It's a vaccine that saves lives. https://t.co/oDqGjidVUm",disease,https://twitter.com/twitter/status/1561691282912600065
+2022.08.22,12,26,1, ,"RT @yamikawadays: 新型コロナ関係のデマツイートが多くて、どれを信じたらいいか分からないそこの君！
+
+コロナを「567」、ワクチンを「枠珍」とか変な変換をする人は100%デマだよ！
+
+あと、日本で一番信用できるサイトはここだよ！
+https://t.co/RIA…","RT @yamikawadays: There are a lot of false tweets about the new corona, and you don't know which one to believe!
+
+People who convert corona to ""567"" and vaccine to ""frame rare"" are 100% hoaxes!
+
+Also, the most reliable site in Japan is here!
+https://t.co/RIA…",reliable,https://twitter.com/twitter/status/1561691281231060992
+2022.08.22,12,26,1, ,"@aaankochaan ワクチンはしてたのかな？
+
+ワクチンしてたら、重症化は避けれるはずだから…
+
+お大事に…水分補給をしっかりね。","@aaankochaan Did you get vaccinated?
+
+If you get vaccinated, you should be able to avoid serious illness...
+
+Take care... stay hydrated.",able,https://twitter.com/twitter/status/1561691340781809665
+2022.08.22,12,26,1, ,"RT @ivannn1110: ワクチン利権に群がる鬼畜が最も嫌がる薬、イベルメクチン。
+#ワクチン利権 #ワクチン後遺症 #マスクは家畜の象徴です
+コロナ騒動の中、アフリカの子供が一番元気だった・・・FLCCC コーリー博士 https://t.co/pZRKLueYvS h…","RT @ivannn1110: Ivermectin, the drug most hated by devils who flock to vaccine interests.
+# Vaccine rights # Vaccine sequelae # Masks are a symbol of livestock
+African children were the most energetic in the corona turmoil ... FLCCC Dr. Corey https://t.co/pZRKLueYvS h...",energetic,https://twitter.com/twitter/status/1561691339741626368
+2022.08.22,12,26, ,1,"RT @80syaku: https://t.co/xZGMag3Sbl
+#サンテレビニュース
+ワクチン後遺症 ファイザー社の有害事象報告書と国内の症例報告 https://t.co/ptkn0DtULr","RT @80syaku: https://t.co/xZGMag3Sbl
+#Sun TV news
+Vaccine sequelae Pfizer's adverse event report and domestic case report https://t.co/ptkn0DtULr",adverse,https://twitter.com/twitter/status/1561691335744442368
+2022.08.22,12,26, ,1,"RT @kirikabu11: @junmurot ワクチン3回目接種後に男女2人が死亡したと発表。
+基礎疾患無し https://t.co/N1zRxYyWsZ","RT @kirikabu11: @junmurot Announced that two men and women died after the third vaccination.
+No underlying disease https://t.co/N1zRxYyWsZ",disease,https://twitter.com/twitter/status/1561691331272904704
+2022.08.22,12,26,1, ,"RT @onokid7: 責任とりたくないのも
+ワクチンを打たせたいのも
+わかった
+
+わかったから
+
+とりあえず
+
+今の新型コロナは風邪の一種です
+
+特別な対策をとる理由がありません
+
+と、とりあえず国の見解として発表して下さい
+
+健全な日常を取り戻すように国民にまず伝える…","RT @onokid7: I don't want to take responsibility
+I want to get vaccinated
+all right
+
+because i understand
+
+for now
+
+The current new corona is a kind of cold
+
+No reason to take special measures
+
+And for the time being, please announce it as a country's opinion
+
+First tell the people to restore a healthy daily life...",kind,https://twitter.com/twitter/status/1561691330740252672
+2022.08.22,12,26, ,1,"@taisouji 変異株については私も含めて多くの人が指摘してきました。
+インフルエンザの頃から変異株で既存のワクチンが効果が無くなることは周知の事実ですよね。
+驚くほど無知で、経験に学ばない人なんでしょう。頭が悪いと大変ですね。","@taisouji Many people, myself included, have pointed out the mutations.
+It's a well-known fact that existing vaccines are no longer effective in mutation stocks since the flu.
+What an amazingly ignorant person who doesn't learn from experience. It's hard when you have a headache.",no,https://twitter.com/twitter/status/1561691328504770561
+2022.08.22,12,26, ,1,RT @unkotaberuno: コロナ脳にデータやグラフを見て事実を理解してもらうのは無理だと1年以上前に気付いたのであまりそうはしなくなったが、奴らは「コロナは恐い。マスクとワクチンがワシらを救ってくれる」という宗教の信者なので、何を言っても脱会は困難と分かった。カルト宗…,"RT @unkotaberuno: I realized more than a year ago that it was impossible for the corona brain to understand the facts by looking at the data and graphs, so I stopped doing so, but they said, ""Corona is scary. Masks and vaccines I'm a believer in a religion that believes that will save us."" Cult…",impossible,https://twitter.com/twitter/status/1561691394661441536
+2022.08.22,12,26, ,1,"RT @You3_JP: サンテレビからニュース
+
+ファイザー社は機密にしていたが、提出された文書には、心臓や脳、神経など、１２９１種類のワクチンの有害事象が報告が記されていた。
+
+これだけ沢山の種類の有害事象があると、どれかにはあたってしまうんじゃないだろうか。 https:…","RT @You3_JP: News from Sun TV
+
+The document, which Pfizer kept confidential, contained reports of 1,291 vaccine-related adverse events, including those affecting the heart, brain, and nerves.
+
+With so many types of adverse events, I wonder if it will hit one of them. https:…",adverse,https://twitter.com/twitter/status/1561691389712207873
+2022.08.22,12,26, ,1,"RT @nonaka_shin: 感染していざ苦しくなったら救急車を呼ぶくらいなら最初からワクチン打ちなさい...そうでなければ、家でがまんしなさい。
+
+と、産科の医師が言ってたみたいですが...医師の立場で言ってるなら【電車でマスクしてない人を殴った男性】と変わらんレベルの暴…","RT @nonaka_shin: If you're sick of being infected, rather than call an ambulance, get vaccinated from the beginning...otherwise, stay at home.
+
+That's what the obstetrician doctor said, but if you're talking from a doctor's point of view, it's the same level of violence as [the man who punched someone who wasn't wearing a mask on the train]...",sick,https://twitter.com/twitter/status/1561691386818482176
+2022.08.22,12,27,1, ,"RT @obgyntommy: HPVワクチンの接種1997-2006年度生まれの方は今なら無料です📣
+
+積極的勧奨が差控えられていた期間に定期予防接種の対象であった方の中には、通知が届かず無料接種の機会を逃してしまった人が多いです。上記の女性を対象に、特例で2022年4月から…","RT @obgyntommy: HPV vaccination is now free for those born in 1997-2006📣
+
+Among those who were eligible for routine immunization during the period when active recommendation was withheld, many missed the opportunity to receive free vaccinations because they did not receive notifications. For the above women, from April 2022 as a special case...",free,https://twitter.com/twitter/status/1561691446666997760
+2022.08.22,12,27,1, ,"RT @yamikawadays: 新型コロナ関係のデマツイートが多くて、どれを信じたらいいか分からないそこの君！
+
+コロナを「567」、ワクチンを「枠珍」とか変な変換をする人は100%デマだよ！
+
+あと、日本で一番信用できるサイトはここだよ！
+https://t.co/RIA…","RT @yamikawadays: There are a lot of false tweets about the new corona, and you don't know which one to believe!
+
+People who convert corona to ""567"" and vaccine to ""frame rare"" are 100% hoaxes!
+
+Also, the most reliable site in Japan is here!
+https://t.co/RIA…",reliable,https://twitter.com/twitter/status/1561691442833043457
+2022.08.22,12,27,1, ,"マスクもワクチンも調べない、
+アプリも娯楽に使って、個人情報は漏れてる💢
+お気楽にも程が過ぎてる👎
+#マイナンバーカード https://t.co/5IcyfyvZ1w","I don't search for masks or vaccines,
+The app is also used for entertainment, and personal information is leaked 💢
+It's too late to take it easy 👎
+# My number card https://t.co/5IcyfyvZ1w",easy,https://twitter.com/twitter/status/1561691496427843584
+2022.08.22,12,27, ,1,"RT @ZInvester: ワクチン未接種の状態でワクチン3回目済みの異なる3人とマスクなしで会話
+→ワクチン未接種者のみ発熱と頭痛、手首の痺れが発生
+
+ここにきて、シェディングを疑ってます。","RT @ZInvester: Conversation without mask with 3 different unvaccinated and 3rd doses of vaccine
+→ Fever, headache, and numbness in the wrist occur only in those who have not been vaccinated.
+
+I'm here to suspect Shedding.",suspect,https://twitter.com/twitter/status/1561691494700183552
+2022.08.22,12,27,1, ,"RT @RTAinJapan: 『RTA in Japan Winter 2022』の応募フォームを公開しました！
+応募開始は8/27(土)21:00からとなりますので、内容をよく読んでお待ちください！
+なお、今回も会場に来場される方は、新型コロナワクチンの2回以上の接種完了が…","RT @RTAinJapan: The application form for ""RTA in Japan Winter 2022"" has been released!
+Applications will be accepted from 8/27 (Sat) at 21:00, so please read the details carefully before waiting!
+In addition, if you are visiting the venue again this time, you must complete two or more vaccinations of the new corona vaccine.",complete,https://twitter.com/twitter/status/1561691549863673857
+2022.08.22,12,27,1, ,@BukichiY そっか嫁きちさんはワクチン打てないですよね🥲乳児の居るご家庭は不安ですよね😭ぶきちさんご家族がご無事のまま世の中の流行り物が終息するのを祈ります🙏,"@BukichiY That's right, your wife can't vaccinate 🥲I'm worried about families with babies 😭I pray that Bukichi-san's family will be safe and the trend in the world will end 🙏",safe,https://twitter.com/twitter/status/1561691547296444416
+2022.08.22,12,27,1, ,"RT @j_sato: 東京慈恵会医科大学　浦島充佳教授
+・BCGは万能のパンデミック対策ワクチンになるかも
+・BCGは安全、効果的、安価、長持ちと四拍子揃った理想的なワクチン
+・日本がリーダーシップをとって、国際共同大規模臨床試験を提言したい","RT @j_sato: Professor Mitsuyoshi Urashima, Jikei University School of Medicine
+BCG could be a universal pandemic vaccine
+・BCG is an ideal vaccine that is safe, effective, inexpensive, and long lasting.
+・Japan would like to take the leadership and propose international joint large-scale clinical trials.",ideal,https://twitter.com/twitter/status/1561691546713747456
+2022.08.22,12,27,1, ,"ワクチンはって、言っちゃてますね。
+成宮くん♥
+慎重にもなりますよねぇ。
+なんで、皆がコロナ恐いし打つ💉ってなるのかが不思議です。中身の方がヤバいやん💢
+#ワクチン中止を求めます 
+#ワクチン 
+#mRNAワクチン
+#遺伝子新薬 https://t.co/YrUSNUDwYV","You're talking about vaccines.
+Narumiya-kun ♥
+You'll have to be careful too.
+I wonder why everyone is afraid of corona and beat it 💉. The contents are more dangerous 💢
+# Call for cessation of vaccines
+#vaccination 
+#mRNA vaccine
+#Genetic drug https://t.co/YrUSNUDwYV",careful,https://twitter.com/twitter/status/1561691545736060929
+2022.08.22,12,27, ,1,"過去の出来事を見ればかなりの時間がかかりそうですね。
+水俣病、薬害エイズ、アスベスト、子宮頸がんワクチン被害😩 https://t.co/P8pAs88HGj","Looking at past events, it seems that it will take a long time.
+Minamata disease, drug AIDS, asbestos, cervical cancer vaccine damage 😩 https://t.co/P8pAs88HGj",damage,https://twitter.com/twitter/status/1561691605140385792
+2022.08.22,12,27,1, ,RT @shiraishia_md: mRNAワクチンの有効性は接種後数週間でピークに達し、その後数か月で減弱していきます。もともとの須藤元気氏のツイートにあるように、BA5相手だと、2回接種で 35% 3回接種で3か月までだと65%でそれ以降は54%です。 https://t…,"RT @shiraishia_md: The effectiveness of mRNA vaccines peaks a few weeks after vaccination and then declines over the next few months. As shown in Genki Sudo's original tweet, with BA5, he is 35% with 2 doses, 65% with 3 doses up to 3 months, and 54% after that. https://t…",original,https://twitter.com/twitter/status/1561691603227463680
+2022.08.22,12,27, ,1,"RT @You3_JP: サンテレビからニュース
+
+ファイザー社は機密にしていたが、提出された文書には、心臓や脳、神経など、１２９１種類のワクチンの有害事象が報告が記されていた。
+
+これだけ沢山の種類の有害事象があると、どれかにはあたってしまうんじゃないだろうか。 https:…","RT @You3_JP: News from Sun TV
+
+The document, which Pfizer kept confidential, contained reports of 1,291 vaccine-related adverse events, including those affecting the heart, brain, and nerves.
+
+With so many types of adverse events, I wonder if it will hit one of them. https:…",adverse,https://twitter.com/twitter/status/1561691602867097602
+2022.08.22,12,27, ,1,"RT @Tamama0306: これが正常な報道です
+
+🇦🇺オーストラリアのニュース詰め合わせ
+
+コロナワクチンによる血栓症で集中治療室に運ばれました
+18歳の医療従事者が接種後に血栓になりました
+ファイザー製ワクチンで病気になった10代の少女が助けを求めています
+
+呪詛 ht…","RT @Tamama0306: this is normal coverage
+
+🇦🇺 Australian News Pack
+
+I was taken to the intensive care unit for thrombosis from the corona vaccine
+18-year-old health care worker develops blood clots after vaccination
+Teenage girl sick from Pfizer vaccine seeks help
+
+curse ht…",sick,https://twitter.com/twitter/status/1561691595875155968
+2022.08.22,12,28, ,1,"RT @serast_km: ニュースで報道されると、どうしても思い出してしまうので、必死にコロナはただの風邪だと叫びマスクやワクチンを否定し報道が大袈裟だと言うのだ!
+コロナ対策を語る人をコロナ脳だのバカ呼ばわりして一切否定するのは怖くてしょうがないので聞きたくないのだ。","RT @serast_km: When it's reported on the news, I can't help but remember it, so I desperately shout that corona is just a cold, deny masks and vaccines, and say the reports are exaggerated!
+I don't want to hear it because it's scary to call people who talk about corona measures stupid and deny it at all.",deny,https://twitter.com/twitter/status/1561691655844945923
+2022.08.22,12,28, ,1,RT @partyhike: 『公的機関の推奨を見るべき』というのはそのとおりで、医クラが『ワクチンで集団免疫が達成可能』という存在しない効能を謳う悪質なデマでワクチン接種を煽っていたけど、厚労省のHPには『新型コロナワクチンによって、集団免疫の効果があるかどうかは分かっておら…,"RT @partyhike: It's true that ``you should see the recommendations of public institutions'', and the medical club was fueling vaccination with a malicious hoax that claims that ``herd immunity can be achieved with vaccines'' that does not exist , On the website of the Ministry of Health, Labor and Welfare, ""I do not know whether the new corona vaccine has the effect of herd immunity ...",malicious,https://twitter.com/twitter/status/1561691655043813376
+2022.08.22,12,28, ,1,"RT @nonaka_shin: 感染していざ苦しくなったら救急車を呼ぶくらいなら最初からワクチン打ちなさい...そうでなければ、家でがまんしなさい。
+
+と、産科の医師が言ってたみたいですが...医師の立場で言ってるなら【電車でマスクしてない人を殴った男性】と変わらんレベルの暴…","RT @nonaka_shin: If you're sick of being infected, rather than call an ambulance, get vaccinated from the beginning...otherwise, stay at home.
+
+That's what the obstetrician doctor said, but if you're talking from a doctor's point of view, it's the same level of violence as [the man who punched someone who wasn't wearing a mask on the train]...",sick,https://twitter.com/twitter/status/1561691730919198720
+2022.08.22,12,28, ,1,"RT @Tamama0306: コロナワクチン後の死亡が急加速
+生命保険金が258%に急増
+
+オランダの保険会社エイゴンはロイターの記事でこう明らかにした
+
+ワクチンがなかった2020年の支払額は3100万ドル
+2021年を通じて3四半期にわたって積極的に接種した結果、支払いが…","RT @Tamama0306: Rapid acceleration of deaths after corona vaccine
+Life insurance premiums surge to 258%
+
+Dutch insurer Aegon said in a Reuters article:
+
+$31 million paid in 2020 without a vaccine
+Three quarters of aggressive inoculation throughout 2021 resulted in payments being…",aggressive,https://twitter.com/twitter/status/1561691728754921474
+2022.08.22,12,28, ,1,"RT @io302: 妊婦・夫共に新型コロナウイルスワクチン未接種の夫婦。隔離期間は終わったのだが、発熱が続き入院している。
+
+入院中だが夫婦そろって『もうかかったからいいじゃん』とノーマスク。医療者へのクレームも絶えない
+
+結局ワクチン打たない、マスクつけない、って人達がなぜ…","RT @io302: Pregnant women and husbands who have not been vaccinated against the new coronavirus. The isolation period is over, but the fever continues and he is hospitalized.
+
+Although he is in the hospital, he and his wife both said, ""It's okay because it's already taken,"" and no mask. Complaints to medical staff are constant
+
+Why do people say they don't get vaccinated and don't wear masks after all...",no,https://twitter.com/twitter/status/1561691727823794177
+2022.08.22,12,28, ,1,"@3104nachiko3104 かわいそうに😭
+ワクチン接種できない年齢は、本当に辛いですよね
+そんなに小さいのにそんな高熱が出て、どんなに辛いか
+お母さんもそのお嬢さん見てるのも辛いですよね。
+1日も早くよくなりますように、お祈りしています🙏
+明日、野暮用帰りに厄神さんにお参りに行ってきます。
+お母さんファイトです","@3104nachiko3104 Poor 😭
+It's really hard at an age when you can't get vaccinated.
+It's so painful to have such a high fever even though it's so small
+It's hard for the mother to see the daughter.
+I pray that the day will get better soon 🙏
+Tomorrow, I'm going to visit Yakujin-san on my way home from work.
+It's a mom fight",hard,https://twitter.com/twitter/status/1561691726154469376
+2022.08.22,12,28, ,1,"RT @nagunagumomo: ワクチンを推進していた医療従事者は積極的に4回目のワクチンを打ち、秋にリリースされるオミクロン用のワクチンを5回目として接種してください。その後も継続して打つようにしてくださいね。
+
+私は今後もワクチンは打ちません。どちらが健康で長生きするか…","RT @nagunagumomo: Medical workers who have been promoting vaccines should actively take the 4th vaccine, and the Omicron vaccine released in the fall as the 5th dose. Please continue to shoot after that.
+
+I will never vaccinate again. Which one is healthier and lives longer?",never,https://twitter.com/twitter/status/1561691788645396480
+2022.08.22,12,28,1, ,"RT @io302: 成人がん患者が体調悪化で入院。新型コロナウイルス感染予防でイベルメクチン内服継続していて、院内でも騒然としていた。
+
+Twitter上では反ワクチンのイベルメクチン教は有名な話だが、一般集団ではまだ知られていないらしい。
+
+悪化の原因はどう考えてもイベルメ…","RT @io302: Adult cancer patient hospitalized due to deterioration. He continued to take ivermectin to prevent infection with the new coronavirus, and there was a lot of turmoil in the hospital.
+
+The anti-vaccine ivermectin cult is well-known on Twitter, but apparently still unknown to the general population.
+
+No matter how you look at it, the cause of the deterioration is Iverme…",patient,https://twitter.com/twitter/status/1561691778348380162
+2022.08.22,12,28,1, ,"RT @Tanuk_Ichi: これは名案(マジで)
+""子宮頸がんワクチン""
+ではなく
+""子宮頸がん及び咽頭がん・肛門がん・陰茎がん予防ワクチン""
+にすべきだったと思う。
+
+たぶん日本人男性の99%くらいはクラミジアや淋菌やHIVは知ってても、発癌性HPVってのを知らないし興味…","RT @Tanuk_Ichi: this is a good idea (seriously)
+""Cervical cancer vaccine""
+not
+""Vaccines for prevention of cervical cancer, pharyngeal cancer, anal cancer, and penile cancer""
+I think it should have been
+
+Probably about 99% of Japanese men know about chlamydia, gonorrhea and HIV, but they don't know about carcinogenic HPV and are interested...",good,https://twitter.com/twitter/status/1561691776347361281
+2022.08.22,12,28,1, ,"RT @Awakend_Citizen: 「ノーマスク」「反ワクチン」の我々を批判する人は勘違いをしている
+
+我々は「ルール」や集団心理に逆らうことに酔っているわけではない
+むしろ正しく行動する常識人が多い
+
+しかしコロナに関しては、明らかに国民にとって良くない目的で誘導し「ル…","RT @Awakend_Citizen: Those who criticize us for ""no masks"" and ""anti-vaccine"" are mistaken
+
+We're not drunk on defying ""rules"" and group psychology
+Rather, there are many common sense people who act correctly
+
+However, regarding Corona, it is clearly not good for the people, and it is guided by ""ru...",good,https://twitter.com/twitter/status/1561691776188297221
+2022.08.22,12,28, ,1,RT @gomaki19531: ワクチン誘発性の血管損傷は血液凝固を促進し、心臓発作、脳卒中、肺塞栓症などの凝固関連疾患は有害事象データベースにおいて一般的に多くみられる,"RT @gomaki19531: Vaccine-induced vascular injury promotes blood clotting, and clotting-related disorders such as heart attack, stroke, and pulmonary embolism are common in adverse event databases",adverse,https://twitter.com/twitter/status/1561691850742046721
+2022.08.22,12,28,1, ,"RT @j_sato: 東京慈恵会医科大学　浦島充佳教授
+・BCGは万能のパンデミック対策ワクチンになるかも
+・BCGは安全、効果的、安価、長持ちと四拍子揃った理想的なワクチン
+・日本がリーダーシップをとって、国際共同大規模臨床試験を提言したい","RT @j_sato: Professor Mitsuyoshi Urashima, Jikei University School of Medicine
+BCG could be a universal pandemic vaccine
+・BCG is an ideal vaccine that is safe, effective, inexpensive, and long lasting.
+・Japan would like to take the leadership and propose international joint large-scale clinical trials.",ideal,https://twitter.com/twitter/status/1561691849634357248
+2022.08.22,12,28, ,1,"RT @You3_JP: 日本の医学会では、コロナワクチンに関連した自己免疫疾患報告、接種後の副反応の報告であふれている。
+
+サンテレビさんの反応
+「国は被害を訴える声に向き合い、因果関係について実態調査に取り組む責任がある」
+
+日本が一番遅れているのは間違いないな
+#ワクチン…","RT @You3_JP: Japanese medical associations are flooded with reports of autoimmune diseases related to corona vaccines and side reactions after vaccination.
+
+Sun TV's reaction
+""The government has a responsibility to face the voices complaining about the damage and conduct a fact-finding survey on the causal relationship.""
+
+Japan is definitely behind
+#vaccination…",damage,https://twitter.com/twitter/status/1561691846270922752
+2022.08.22,12,28,1, ,@takavet1 同じです。思いやりワクチンと同じ匂いがしています。気持ち悪い,@takavet1 Same. It smells like the compassion vaccine. Creepy,like,https://twitter.com/twitter/status/1561691844219908097
+2022.08.22,12,28, ,1,"RT @mochamo2660: 女性セブンの9月1日号
+
+買った。
+
+8月13日に急逝された近藤誠さん追悼記事。『コロナワクチンの本当の怖さ』
+
+コロナ対策に税金はどのくらい使われているのか？
+『「コロナワクチンのコスパ」というタブー』
+
+『新型コロナ「一度もならない人」「何…","RT @mochamo2660: Female Seven September 1st issue
+
+bought.
+
+A memorial article for Makoto Kondo, who passed away suddenly on August 13th. ""The true fear of the corona vaccine""
+
+How much tax is used for corona measures?
+""The taboo of 'cospa of corona vaccine'""
+
+""New Corona"" People who have never done it """" What...",fear,https://twitter.com/twitter/status/1561691838238818304
+2022.08.22,12,28, ,1,RT @diplo_geo: ワクチン推進のカラクリは、ファイザーの株主であるSGI(創価学会インターナショナル)とゲイツ財団が手を組み、学会員が多く在籍する厚労省と、製薬会社と癒着する感染症の専門家が旗振り役となり、日本政府の財源で大量にワクチンを購入し、総動員して国民に接種…,"RT @diplo_geo: Vaccine promotion mechanism is a partnership between SGI (Soka Gakkai International), a shareholder of Pfizer, and the Gates Foundation, and the Ministry of Health, Labor and Welfare, where many academic members are enrolled, and an infectious disease expert who is in close contact with pharmaceutical companies. became a flag bearer, purchased a large amount of vaccines with the financial resources of the Japanese government, and mobilized all to vaccinate the public.",disease,https://twitter.com/twitter/status/1561691901916434432
+2022.08.22,12,28,1, ,"RT @j_sato: 東京慈恵会医科大学　浦島充佳教授
+・BCGは万能のパンデミック対策ワクチンになるかも
+・BCGは安全、効果的、安価、長持ちと四拍子揃った理想的なワクチン
+・日本がリーダーシップをとって、国際共同大規模臨床試験を提言したい","RT @j_sato: Professor Mitsuyoshi Urashima, Jikei University School of Medicine
+BCG could be a universal pandemic vaccine
+・BCG is an ideal vaccine that is safe, effective, inexpensive, and long lasting.
+・Japan would like to take the leadership and propose international joint large-scale clinical trials.",ideal,https://twitter.com/twitter/status/1561691897118466048
+2022.08.22,12,28, ,1,"RT @1DGFG: 九州大学医学部生の20歳男性。胸の苦しみで救急搬送、心筋炎と診断される。”(診断した)僕の先生は、ちゃんと正義感を持った先生だったのかなと思っています”
+
+ワクチン後遺症　ファイザー社の有害事象報告書と国内の症例報告(サンテレビ)
+#Yahooニュース
+h…","RT @1DGFG: A 20-year-old male medical student at Kyushu University. He was rushed to the emergency room with chest pains and diagnosed with myocarditis. “I think my teacher (who diagnosed me) was a teacher with a proper sense of justice.”
+
+Vaccine sequelae Pfizer's adverse event report and domestic case report (Sun TV)
+#Yahoo News
+h…",adverse,https://twitter.com/twitter/status/1561691895965057024
+2022.08.22,12,28,1, ,"RT @XX_ALUCARD_XX: @shonyan ワクチン接種者が血栓なりやすいという話を色々調べてる知人から聞きました。
+黒く変色している部分は既に壊死した皮膚です。これ以上悪化しないよう心から祈ります。当方介護福祉士です。職場利用者ワクチン接種者から帯状疱疹や排泄時の…","RT @XX_ALUCARD_XX: @shonyan I heard from an acquaintance who is researching various stories that vaccinated people are prone to blood clots.
+The dark discolored part is already necrotic skin. I sincerely hope it doesn't get any worse. I am a care worker. Shingles and excretion from workplace users vaccinated…",hope,https://twitter.com/twitter/status/1561691893326827520
+2022.08.22,12,29,1, ,"RT @j_sato: 東京慈恵会医科大学　浦島充佳教授
+・BCGは万能のパンデミック対策ワクチンになるかも
+・BCGは安全、効果的、安価、長持ちと四拍子揃った理想的なワクチン
+・日本がリーダーシップをとって、国際共同大規模臨床試験を提言したい","RT @j_sato: Professor Mitsuyoshi Urashima, Jikei University School of Medicine
+BCG could be a universal pandemic vaccine
+・BCG is an ideal vaccine that is safe, effective, inexpensive, and long lasting.
+・Japan would like to take the leadership and propose international joint large-scale clinical trials.",ideal,https://twitter.com/twitter/status/1561691970367393792
+2022.08.22,12,29, ,1,"RT @80syaku: https://t.co/xZGMag3Sbl
+#サンテレビニュース
+ワクチン後遺症 ファイザー社の有害事象報告書と国内の症例報告 https://t.co/ptkn0DtULr","RT @80syaku: https://t.co/xZGMag3Sbl
+#Sun TV news
+Vaccine sequelae Pfizer's adverse event report and domestic case report https://t.co/ptkn0DtULr",adverse,https://twitter.com/twitter/status/1561691968039555072
+2022.08.22,12,29,1, ,"RT @j_sato: 東京慈恵会医科大学　浦島充佳教授
+・BCGは万能のパンデミック対策ワクチンになるかも
+・BCGは安全、効果的、安価、長持ちと四拍子揃った理想的なワクチン
+・日本がリーダーシップをとって、国際共同大規模臨床試験を提言したい","RT @j_sato: Professor Mitsuyoshi Urashima, Jikei University School of Medicine
+BCG could be a universal pandemic vaccine
+・BCG is an ideal vaccine that is safe, effective, inexpensive, and long lasting.
+・Japan would like to take the leadership and propose international joint large-scale clinical trials.",ideal,https://twitter.com/twitter/status/1561691963656912896
+2022.08.22,13,50, ,1,"RT @BB45_Colorado: 僕が恐れているのは、ウイルスの変異によってや、ワクチンの濫用によって細胞記憶が無効になったり減弱すること。
+
+それが起きると、感染力が激増したウイルスに人類は、鎧袖一触されてしまう。","RT @BB45_Colorado: My fear is that the mutation of the virus and the overuse of vaccines will disable or weaken cellular memory.
+
+When that happens, mankind will be overwhelmed by a virus whose infectious power has increased dramatically.",fear,https://twitter.com/twitter/status/1561712300893286406
+2022.08.22,13,50, ,1,"RT @kirikabu11: @junmurot ワクチン3回目接種後に男女2人が死亡したと発表。
+基礎疾患無し https://t.co/N1zRxYyWsZ","RT @kirikabu11: @junmurot Announced that two men and women died after the third vaccination.
+No underlying disease https://t.co/N1zRxYyWsZ",disease,https://twitter.com/twitter/status/1561712297076174848
+2022.08.22,13,50,1, ,ワクチンも頑張りましょうね✨ https://t.co/YGn5HDvio7,Let's do our best with the vaccine ✨ https://t.co/YGn5HDvio7,best,https://twitter.com/twitter/status/1561712293498744834
+2022.08.22,13,49,1, ,出会い系アプリのペアーズのプロフィールで1番目立つ所にワクチン接種済みって表記が有るのは凄いな。でも、確かにそこの価値観がズレてると絶対に揉めるわな。,"It's amazing that the profile of the dating app Pairs has the notation that it has been vaccinated in the first place. But if there's a discrepancy in the sense of values ​​there, I'll definitely get into trouble.",amazing,https://twitter.com/twitter/status/1561712290634039298
+2022.08.22,13,50, ,1,"RT @suntv3: ワクチン後遺症　ファイザー社の有害事象報告書と国内の症例報告(サンテレビ)
+＃新型コロナ ＃ワクチン ＃後遺症 #サンテレビニュース
+https://t.co/W3VQvXKkwQ","RT @suntv3: Vaccine sequelae Pfizer's adverse event report and domestic case report (Sun TV)
+#New Corona #Vaccine #Aftereffects #Sun TV News
+https://t.co/W3VQvXKkwQ",adverse,https://twitter.com/twitter/status/1561712479390306304
+2022.08.22,13,50, ,1,RT @diplo_geo: ワクチン推進のカラクリは、ファイザーの株主であるSGI(創価学会インターナショナル)とゲイツ財団が手を組み、学会員が多く在籍する厚労省と、製薬会社と癒着する感染症の専門家が旗振り役となり、日本政府の財源で大量にワクチンを購入し、総動員して国民に接種…,"RT @diplo_geo: Vaccine promotion mechanism is a partnership between SGI (Soka Gakkai International), a shareholder of Pfizer, and the Gates Foundation, and the Ministry of Health, Labor and Welfare, where many academic members are enrolled, and an infectious disease expert who is in close contact with pharmaceutical companies. became a flag bearer, purchased a large amount of vaccines with the financial resources of the Japanese government, and mobilized all to vaccinate the public.",disease,https://twitter.com/twitter/status/1561712477523832833
+2022.08.22,13,50, ,1,"ワクチン後遺症がトレンドにあって見てみるが、大半は陰謀論系だな。
+ワクチンの副作用は実際有ると思うし、特に他のワクチン以上に問題が多い。ただ、イチゼロで非科学的に語ってるのは本当に害しかないんだよなぁ。ワクチンは100%安全でもないし、人口削減のための陰謀でもないよ","Vaccine sequelae are trending and I'll take a look, but most of them are conspiracy theories.
+I think the side effects of vaccines do exist, especially more problematic than other vaccines. It's just that it's really harmful to talk unscientific with zero. Vaccines are not 100% safe, nor are they conspiracies to reduce population.",harmful,https://twitter.com/twitter/status/1561712473279180800
+2022.08.22,13,50, ,1,"RT @nonaka_shin: 感染していざ苦しくなったら救急車を呼ぶくらいなら最初からワクチン打ちなさい...そうでなければ、家でがまんしなさい。
+
+と、産科の医師が言ってたみたいですが...医師の立場で言ってるなら【電車でマスクしてない人を殴った男性】と変わらんレベルの暴…","RT @nonaka_shin: If you're sick of being infected, rather than call an ambulance, get vaccinated from the beginning...otherwise, stay at home.
+
+That's what the obstetrician doctor said, but if you're talking from a doctor's point of view, it's the same level of violence as [the man who punched someone who wasn't wearing a mask on the train]...",sick,https://twitter.com/twitter/status/1561712470682906625
+2022.08.22,13,50,1, ,"#夕刻#海#高崎山
+
+海は、少し荒れていてましたが、眺めも良く穏やか気持ちでいられます。
+もちろん、マスクなどしていたら爽快さは、感じられ無ないでしょう。
+
+大人の都合でマスクやワクチンを強要しないでもらいたいです。 https://t.co/Vxd4KGXJZN","#evening#sea#mount takasaki
+
+The sea was a little rough, but the view is good and you can feel calm.
+Of course, if you are wearing a mask, you will not feel refreshed.
+
+I don't want adults to force masks and vaccines. https://t.co/Vxd4KGXJZN",good,https://twitter.com/twitter/status/1561712469038735360
+2022.08.22,13,50, ,1,"mw9DpccKwS4SHGD 5/1
+看護師などがワクチンでの副反応が
+半端ないくらい多いが口にしないよう、、
+口止めされているそうです。
+
+これは事実です。
+恐ろしい話です。
+
+私の他の友達の子供さんも看護師
+やはり接種後に副反応で体調不良、高熱
+腕の痛みで休む人が多く病院が回らないそうです。","mw9DpccKwS4SHGD 5/1
+Nurses, etc. have side reactions to vaccines
+It's a lot, but don't say it,
+He seems to have been shut up.
+
+This is true.
+It's a scary story.
+
+My other friend's child is also a nurse
+After all, after the vaccination, I felt unwell due to side effects and had a high fever.
+It seems that there are many people who rest with pain in their arms and do not go to the hospital.",scary,https://twitter.com/twitter/status/1561712531671920642
+2022.08.22,13,51,1, ,"RT @triangle24: 8/22月 5～11歳のコロナワクチン3回目接種を承認へ　厚労省
+
+29日の専門部会で了承されれば、速やかに特例承認へ
+
+記事見ると、2回目から6ヶ月後を想定？ 3月から始まったので、最も早い子は9月に3回目接種か
+https://t.co/ii…","RT @triangle24: 8/22 Ministry of Health, Labor and Welfare to approve third dose of corona vaccine for 5-11 year olds
+
+If it is approved by the special committee on the 29th, it will be promptly approved as a special case
+
+Looking at the article, is it supposed to be 6 months after the second time? Since it started in March, the earliest child will be vaccinated for the third time in September.
+https://t.co/ii…",special,https://twitter.com/twitter/status/1561712786677575685
+2022.08.22,13,51, ,1,"RT @UV312GwqDkt0: コロナ陽性者が、血栓症を発症すれば
+「原因はコロナです」
+
+コロワクの接種者が、血栓症を発症すれば
+「既存のなんらかの病気の合併症です。ワクチン後遺症や、ワクチンとの因果関係は考えられません」
+
+これで、納得してしまう世の中なんだから、もうダ…","RT @UV312GwqDkt0: If a corona-positive person develops thrombosis
+""Corona is the cause""
+
+If a Korowak recipient develops thrombosis
+""It's a complication of some pre-existing disease. I can't think of a vaccine sequelae or a causal relationship with the vaccine.""
+
+It's a world where you can be convinced with this, so no more...",no,https://twitter.com/twitter/status/1561712784752394241
+2022.08.22,13,52, ,1,"RT @SukunaBikona7: 5～11歳のコロナワクチン3回目接種を承認へ　厚労省 | 毎日新聞 https://t.co/Vo2TMU6TiV
+""厚生労働省は22日、5～11歳の子どもへの3回目接種について、米ファイザー製の新型コロナウイルスワクチンの使用を認める方針…","RT @ SukunaBikona7: To approve the third dose of corona vaccine for 5 to 11 years old Ministry of Health, Labor and Welfare | Mainichi Shimbun https://t.co/Vo2TMU6TiV
+""On the 22nd, the Ministry of Health, Labor and Welfare plans to allow the use of the new coronavirus vaccine made by Pfizer in the United States for the third vaccination of children aged 5 to 11...",old,https://twitter.com/twitter/status/1561712839110193152
+2022.08.22,13,52,1, ,RT @takeokonchan: @masatakatze 今年の一月に3回打てば感染を予防すると言っていた岸田。4回打っても感染するとワクチン無能を証明してくれた。グッジョブ。,"RT @takeokonchan: @masatakatze Kishida said that if you hit 3 times in January this year, you can prevent infection. He proved his vaccine incompetence when he got infected even after four shots. good job.",good,https://twitter.com/twitter/status/1561712835688017920
+2022.08.22,13,52,1, ,"RT @j_sato: 東京慈恵会医科大学　浦島充佳教授
+・BCGは万能のパンデミック対策ワクチンになるかも
+・BCGは安全、効果的、安価、長持ちと四拍子揃った理想的なワクチン
+・日本がリーダーシップをとって、国際共同大規模臨床試験を提言したい","RT @j_sato: Professor Mitsuyoshi Urashima, Jikei University School of Medicine
+BCG could be a universal pandemic vaccine
+・BCG is an ideal vaccine that is safe, effective, inexpensive, and long lasting.
+・Japan would like to take the leadership and propose international joint large-scale clinical trials.",ideal,https://twitter.com/twitter/status/1561712834903699456
+2022.08.22,13,52,1, ,"せっかくバズってるので
+この異常な感染対策を推し進めようとしている日本政府【内閣府】の目標を宣伝させていただきます。
+陰謀論だとか反ワクチンだとか言う方にぜひ見ていただきたい。
+政府がよっぽどの陰謀論者です。
+
+https://t.co/7QkXk5ahRJ https://t.co/q9IghN9pYw","It's all the buzz
+I would like to announce the goal of the Japanese government [Cabinet Office], which is trying to promote this unusual infection control.
+If you are a conspiracy theory or anti-vaccine, please take a look.
+The government is one hell of a conspiracy theorist.
+
+https://t.co/7QkXk5ahRJ https://t.co/q9IghN9pYw",like,https://twitter.com/twitter/status/1561712884211585029
+2022.08.22,13,53, ,1,"RT @universalsoftw2: 米国疾病予防センター（CDC）の新しい新型コロナ感染に対する指針は、
 ・新型コロナウイルスに暴露した人でも隔離は必要ない
 ・遺伝子ワクチン未接種者も接種者同様の扱い
 ・新型コロナウイルスに暴露した生徒も授業に参加できる
@@ -146,109 +1179,149 @@ Everyone close to the medical staff said the obvious complaint together...",dirt
 ・People who have been exposed to the new coronavirus do not need to be quarantined
 ・Those who have not received genetic vaccines are treated the same as those who have been vaccinated
 ・Students exposed to the new coronavirus can participate in classes
-・For those who have no symptoms",not,https://twitter.com/twitter/status/1561362939738697728
-2022.08.21,14:41,1, ,RT @t2PrW6hArJWQR5S: もう一度言うよ。ワクチンの予算は税金だよ。そのために特例国債が発行されている。製薬会社がボロ儲けする一方、元本利息が国民に課税される。もうすぐ国民負担率（所得に占める税金と保険料の割合）は50％を超える。将来の国民負担率は60％を超える…,"RT @t2PrW6hArJWQR5S: Say it again. Vaccine budget is tax money. Special deficit-financing bonds are issued for this purpose. While the pharmaceutical companies make a lot of money, the principal and interest are taxed on the public. The national burden rate (the ratio of tax and insurance premiums to income) will soon exceed 50%. The future national burden rate will exceed 60%...",interest,https://twitter.com/twitter/status/1561362935171227653
-2022.08.21,14:41, ,1,"@takavet1 反論の以前の話で、ワクチンに効果があるとして、ワクチン接種後10日も経過してないんだから、そんなに効果があるわけないと思う。
-副反応やワクチン後遺症のリスクを考えると重症化しにくい若者は不要だというだけですね！","@takavet1 In the previous counterargument, if the vaccine is effective, it hasn't been 10 days since the vaccination, so I don't think it's that effective.
-It's just that young people who are hard to get serious are unnecessary when you think of the side effects and the risk of vaccine aftereffects!",hard,https://twitter.com/twitter/status/1561362933913100288
-2022.08.21,14:41, ,1,"@kawausotoo 打っても罹るのはインフルエンザで実証済みなので、そこは仕方ないと思うんです。
-だけど、じゃあワクチンを打つと重症化や後遺症はどれくらい減らせるのか？
-抗体はどれくらい保つのか？
-メリットがはっきりしなくて、打つ決定打にならないんです😰💦💦","@kawausotoo It's been proven that even if you hit it, you'll get the flu, so I think it can't be helped.
-But then how much can you reduce the seriousness and sequelae when you hit the vaccine?
-How long do antibodies last?
-The advantage is not clear, and it is not a decisive hit😰💦💦",not,https://twitter.com/twitter/status/1561362978489872384
-2022.08.21,14:41, ,1,"今までのワクチンは怖い伝染病に罹りたくないから接種した。コロナは重症化しないために打つと言い出した。そのため世界の人全員が何回も打つべきですか？不可解です。
+・For those who have no symptoms",no,https://twitter.com/twitter/status/1561713283131797504
+2022.08.22,13,53,1, ,"RT @io302: 成人がん患者が体調悪化で入院。新型コロナウイルス感染予防でイベルメクチン内服継続していて、院内でも騒然としていた。
 
-岸田首相「ワクチン接種4回め」直後のコロナ感染 “反ワクチン派”の便乗批判に「重症化防ぐため」反論の声 https://t.co/vsvpXrfeX6","I vaccinated until now because I don't want to get a scary infectious disease. Corona said to hit it so it doesn't get serious. So should everyone in the world hit it multiple times? it's incomprehensible.
+Twitter上では反ワクチンのイベルメクチン教は有名な話だが、一般集団ではまだ知られていないらしい。
 
-Corona infection immediately after Prime Minister Kishida's 4th vaccination Voice of counterargument against criticism of piggybacking of ``anti-vaccine faction'' ``to prevent aggravation'' https://t.co/vsvpXrfeX6",scary,https://twitter.com/twitter/status/1561362976161992707
-2022.08.21,14:41, ,1,"RT @maimanma1: 大人はもう何回も予防接種してます
+悪化の原因はどう考えてもイベルメ…","RT @io302: Adult cancer patient hospitalized due to deterioration. He continued to take ivermectin to prevent infection with the new coronavirus, and there was a lot of turmoil in the hospital.
 
-５－１１歳は接種率が低く十分に守られていません
-４歳以下はワクチンがありません
+The anti-vaccine ivermectin cult is well-known on Twitter, but apparently still unknown to the general population.
 
-ラゲブリオは１８歳以上、パキロビットは１２歳以上で子供に使えません
+No matter how you look at it, the cause of the deterioration is Iverme…",patient,https://twitter.com/twitter/status/1561713278639673344
+2022.08.22,13,53, ,1,"RT @blanc0981: 5～11歳のコロナワクチン3回目接種を承認へ　厚労省 | 毎日新聞 
 
-小児に使える薬は点滴のベクルリー位しかありません
+承認根拠データや論文分かりますか？既に分科会で討議されてましたっけ？？
 
-ワクチン…","RT @maimanma1: Adults have already been vaccinated many times
+しかし、２回打った人が5-11歳で１７％しか居ないので、３回目打たせる阿呆親は少ないでしょう
+http…","RT @ blanc0981: To approve the third dose of corona vaccine for 5 to 11 years old Ministry of Health, Labor and Welfare | Mainichi Shimbun
 
-5-11 year olds have low vaccination rates and are not adequately protected
-No vaccine for children under 4
+Do you know the basis data and papers for approval? Was it already discussed in the subcommittee? ?
 
-Lagebrio is over 18 years old, Pakirobit is over 12 years old and not suitable for children
+However, since only 17% of 5-11 year olds hit the ball twice, few foolish parents are allowed to hit the ball a third time.
+http…",old,https://twitter.com/twitter/status/1561713278476500992
+2022.08.22,13,54, ,1,"RT @kirikabu11: @junmurot ワクチン3回目接種後に男女2人が死亡したと発表。
+基礎疾患無し https://t.co/N1zRxYyWsZ","RT @kirikabu11: @junmurot Announced that two men and women died after the third vaccination.
+No underlying disease https://t.co/N1zRxYyWsZ",disease,https://twitter.com/twitter/status/1561713338362793984
+2022.08.22,13,54,1, ,@Trilliana_z おやおや、キッパリと言いおったか。テレビ業界はワクチン崇拝一辺倒だから、相棒再登場の可能性が減らないと良いけどなぁ。,"@Trilliana_z Oh my God, did I just say that? Since the TV industry is obsessed with worshiping vaccines, I hope the chances of Buddy reappearing aren't diminished.",hope,https://twitter.com/twitter/status/1561713455173754880
+2022.08.22,13,54, ,1,"RT @serast_km: ニュースで報道されると、どうしても思い出してしまうので、必死にコロナはただの風邪だと叫びマスクやワクチンを否定し報道が大袈裟だと言うのだ!
+コロナ対策を語る人をコロナ脳だのバカ呼ばわりして一切否定するのは怖くてしょうがないので聞きたくないのだ。","RT @serast_km: When it's reported on the news, I can't help but remember it, so I desperately shout that corona is just a cold, deny masks and vaccines, and say the reports are exaggerated!
+I don't want to hear it because it's scary to call people who talk about corona measures stupid and deny it at all.",deny,https://twitter.com/twitter/status/1561713454821818368
+2022.08.22,13,54, ,1,"RT @takayan309: #政府は今すぐノーマスクを撤回しなさい
+ワクチン打ったからと言ってマスクをしないのは間違いです。
+#天瀬ひみか さま
+#聖三活動
+#ホロゾフィー","RT @takayan309: #Government withdraw no mask now
+It's a mistake not to wear a mask just because you hit the vaccine.
+#Amase Himika
+#Seisan activities
+#horosophie",no,https://twitter.com/twitter/status/1561713452200378369
+2022.08.22,13,54,1, ,"RT @BagingBaging: 「未接種者はコロナになっても税金つかうなよ」
+↑こんな事言う奴がいるが、だったら逆に
+・ワクチンに使った税金
+・無意味な感染対策に使った税金
+・コロナ脳が陽性で使った高額医療費（入院で100万とか170万とか）
+↑これら全部接種者で払えよw…","RT @BagingBaging: ""Non-vaccinated people should not pay taxes even if they become corona""
+↑ There are people who say this, but if so, it's the other way around
+・Taxes spent on vaccines
+・ Taxes used for meaningless infection control
+・ High medical expenses used for positive corona brain (1 million or 1.7 million for hospitalization)
+↑ All these must be paid by the vaccinated person w...",positive,https://twitter.com/twitter/status/1561713447665930240
+2022.08.22,13,54, ,1,"RT @nonaka_shin: 感染していざ苦しくなったら救急車を呼ぶくらいなら最初からワクチン打ちなさい...そうでなければ、家でがまんしなさい。
 
-The only medicine that can be used for children is Veklury, which is an intravenous drip.
+と、産科の医師が言ってたみたいですが...医師の立場で言ってるなら【電車でマスクしてない人を殴った男性】と変わらんレベルの暴…","RT @nonaka_shin: If you're sick of being infected, rather than call an ambulance, get vaccinated from the beginning...otherwise, stay at home.
 
-vaccination…",not,https://twitter.com/twitter/status/1561362973847072768
-2022.08.21,14:41, ,1,"RT @nagunagumomo: 新型コロナはただの風邪ではない、後遺症に悩んでいる人もいる。という意見は否定しません。
+That's what the obstetrician doctor said, but if you're talking from a doctor's point of view, it's the same level of violence as [the man who punched someone who wasn't wearing a mask on the train]...",sick,https://twitter.com/twitter/status/1561713446558638081
+2022.08.22,13,54,1, ,"RT @Tanuk_Ichi: これは名案(マジで)
+""子宮頸がんワクチン""
+ではなく
+""子宮頸がん及び咽頭がん・肛門がん・陰茎がん予防ワクチン""
+にすべきだったと思う。
 
-しかし、それがワクチンを接種したり、マスクをする事と何か関係があるのですか？","RT @nagunagumomo: The new corona is not just a cold, some people are suffering from aftereffects. I do not deny the opinion.
+たぶん日本人男性の99%くらいはクラミジアや淋菌やHIVは知ってても、発癌性HPVってのを知らないし興味…","RT @Tanuk_Ichi: this is a good idea (seriously)
+""Cervical cancer vaccine""
+not
+""Vaccines for prevention of cervical cancer, pharyngeal cancer, anal cancer, and penile cancer""
+I think it should have been
 
-But what does that have to do with getting vaccinated or wearing a mask?",not,https://twitter.com/twitter/status/1561362971707977728
-2022.08.21,14:41, ,1,"RT @WfrtqlEI71tDvc5: どなたか国内のワクチン接種別死亡データありませんか？
-厚労省、地方含めこれだけはどこも出しません。
-最も重要なデータで未接種者が沢山亡くなっていれば高齢者は文句言わずみな打つと思うんです。
-やはり接種者が沢山亡くなっているのでしょうか？","RT @WfrtqlEI71tDvc5: Anyone have domestic mortality data by vaccination?
-The Ministry of Health, Labor and Welfare, including local governments, will not issue anything.
-If the most important data is that many unvaccinated people have died, I think that the elderly will hit everyone without complaining.
-Are many vaccinated people still dying?",not,https://twitter.com/twitter/status/1561362971666022401
-2022.08.21,14:41,1, ,"RT @blanc0981: ✘家族や友人に感染させにくくなる➡デマ
-✘社会の蔓延防止➡デマ
-✘蔓延阻止で新たな変異が生まれにくい➡デマ
-✘インフルエンザ脳症はワクチンで防げる➡デマ
+Probably about 99% of Japanese men know about chlamydia, gonorrhea and HIV, but they don't know about carcinogenic HPV and are interested...",good,https://twitter.com/twitter/status/1561713445724073984
+2022.08.22,13,54, ,1,"RT @SukunaBikona7: 5～11歳のコロナワクチン3回目接種を承認へ　厚労省 | 毎日新聞 https://t.co/Vo2TMU6TiV
+""厚生労働省は22日、5～11歳の子どもへの3回目接種について、米ファイザー製の新型コロナウイルスワクチンの使用を認める方針…","RT @ SukunaBikona7: To approve the third dose of corona vaccine for 5 to 11 years old Ministry of Health, Labor and Welfare | Mainichi Shimbun https://t.co/Vo2TMU6TiV
+""On the 22nd, the Ministry of Health, Labor and Welfare plans to allow the use of the new coronavirus vaccine made by Pfizer in the United States for the third vaccination of children aged 5 to 11...",old,https://twitter.com/twitter/status/1561713505807392768
+2022.08.22,13,54,1, ,RT @takavet1: 欧米はあの手この手で、支配を続けるために、新しい枠組み、ルールを押し付けてきます。その際、巧妙に正義を振りかざし、善人を装います。日本を守るために欧米の策略には十分気をつけた方がいいです。無批判に受け入れるのはとても危険です。ワクチンしかり、SDGs…,"RT @takavet1: The West will do whatever it takes to impose new frameworks and rules in order to maintain its dominance. At that time, he skillfully brandishes justice and pretends to be a good person. In order to protect Japan, it is better to pay close attention to the strategies of Europe and the United States. Uncritical acceptance is very dangerous. Vaccines, SDGs...",good,https://twitter.com/twitter/status/1561713504201359361
+2022.08.22,13,54, ,1,RT @shirige_ya: ワクチン4回目を打った岸田首相がコロナ陽性になったも茶番だが、濃厚接触者が出てこないのはどういうことだ？,"RT @shirige_ya: It's a farce that Prime Minister Kishida, who hit the fourth vaccine, became corona positive, but what does it mean that there are no close contacts?",mean,https://twitter.com/twitter/status/1561713503098277888
+2022.08.22,13,54,1, ,"RT @taniguchikazuk2: 国民には抗原検査、自身はPCR検査で抗原検査の不良性を見せつけて、４回目ワクチン実施10日後にはコロナ感染して見せてワクチンの効力の無さを実証
+首相がこれだもの、なんか日本の感染対策""頼りない""って思う。
+だって感染者数｢世界一｣のデー…","RT @taniguchikazuk2: Demonstrate the ineffectiveness of the vaccine by demonstrating the ineffectiveness of the vaccine by showing the antigen test to the public and the antigen test itself by PCR test, showing the corona infection 10 days after the 4th vaccine implementation
+The Prime Minister is like this, I think that Japan's infection control measures are ""unreliable"".
+Because the number of infected people is ""the world's number one"" day...",like,https://twitter.com/twitter/status/1561713497943449600
+2022.08.22,13,55,1, ,"@dkoumon そうなんですね、確認いただきありがとうございます。
 
-どうしようもないな
-この手を洗う木下氏、ひどいな
-こんなデマフリップ堂々と流すアベプラ、ひど…","RT @blanc0981: ✘Hard to infect family and friends➡Hoax
-✘ Prevention of spread in society ➡ False rumors
-✘ Preventing the spread of new mutations ➡ Hoax
-✘ Influenza encephalopathy can be prevented with a vaccine ➡ False
+＞病院は医療スタッフや、他の患者さんを守るため
 
-I can't help it
-Mr. Kinoshita who washes his hands is terrible
-This kind of hoax flipping Abepla, it's terrible...",kind,https://twitter.com/twitter/status/1561362965475246080
-2022.08.21,14:42, ,1,"RT @takavet1: 便乗批判だと⁉️
-反論もなにも‼️
+ただここの疑問がありました。
+PCRで何から守るのかの疑問です
+ワクチンも結果何も守りませんでしたし、むしろ陽性者は増えました。そして、その陽性者は一体何の陽性なのかさえ分からない…","@dkoumon Right, thank you for confirming.
 
-もともと元気な人には不要だし、何兆円もかけて接種を進めるものでもない。ワクチン差別で分断もすすめたではないか！
+>Hospitals protect medical staff and other patients
 
-岸田首相「ワクチン接種4回め」直後のコロナ感染 “反ワクチン派”の便乗批判に「重症化防ぐため」反論…","RT @takavet1: Opportunity criticism!?
-No objection!! ️
+I just had a question here.
+It is a question of what to protect with PCR
+The vaccine didn't protect anything as a result, and rather the positive people have increased. And the positive person doesn't even know what kind of positive it is...",positive,https://twitter.com/twitter/status/1561713555506081795
+2022.08.22,13,55, ,1,RT @daigooregairu: 実は弟が新型コロナかかったんだが、やっぱあれかかったらヤバいわ。熱40度、咳、倦怠感のフルコンボ。近隣の病院は受診できず、発熱外来あるとこも保健所も電話が繋がらない。ワクチンしてなかったらおそらく死んでた。弟曰く「死ぬかと思った」なお、熱が…,"RT @daigooregairu: Actually, my brother got the new coronavirus, but it would be dangerous if he got it. Full combo of 40 degrees fever, cough and malaise. Nearby hospitals are not accessible, and there is no phone connection to fever outpatient clinics or public health centers. If I hadn't been vaccinated, I would have probably died. My brother said, ""I thought I was going to die."" Furthermore, the fever...",no,https://twitter.com/twitter/status/1561713555228962816
+2022.08.22,13,54,1, ,"@YFL4121 おやすみなさい❣
+ワクチンお疲れ様
+副反応　今、出てなければ大丈夫かな
+でも、無理は禁物
+また明日","@YFL4121 good night❣
+thank you for the vaccine
+Adverse reaction If it doesn't appear now, will it be okay?
+But don't overdo it
+see you tomorrow",good,https://twitter.com/twitter/status/1561713546807083008
+2022.08.22,13,54,1, ,"RT @obgyntommy: HPVワクチンの接種1997-2006年度生まれの方は今なら無料です📣
 
-It's not necessary for people who are originally energetic, and it's not something you can spend trillions of yen to get vaccinated. Didn't you recommend dividing by vaccine discrimination!
+積極的勧奨が差控えられていた期間に定期予防接種の対象であった方の中には、通知が届かず無料接種の機会を逃してしまった人が多いです。上記の女性を対象に、特例で2022年4月から…","RT @obgyntommy: HPV vaccination is now free for those born in 1997-2006📣
 
-Corona infection immediately after Prime Minister Kishida's ``fourth vaccination'' Counterargument ``to prevent aggravation'' against criticism of piggybacking of ``anti-vaccine faction''...",not,https://twitter.com/twitter/status/1561363003194617857
-2022.08.21,14:42, ,1,"RT @Tanuk_Ichi: つくば市議会の反ワクチン議員小森谷さやかのツイートに腹が立ったので、ついうっかりアカウントの鍵を外してしまった
-子宮頸がんを発症した方を100人以上診てきましたが、子宮頸がんで死なないためにはHPVワクチンと子宮頸がん検診が必須
-反ワクチンと統一…","RT @Tanuk_Ichi: I inadvertently unlocked my account because I was angered by a tweet by Sayaka Komoriya, an anti-vaccine member of the Tsukuba City Council
-I have seen more than 100 people who developed cervical cancer, but HPV vaccine and cervical cancer screening are essential to not die from cervical cancer
-Anti-vaccine and unity…",not,https://twitter.com/twitter/status/1561363001080328192
-2022.08.21,14:42, ,1,"RT @oogakisauna: 日曜  垣🈂️ 今週の所感っス😃
+Among those who were eligible for routine immunization during the period when active recommendation was withheld, many missed the opportunity to receive free vaccinations because they did not receive notifications. For the above women, from April 2022 as a special case...",free,https://twitter.com/twitter/status/1561713542847696896
+2022.08.22,13,55, ,1,"RT @blanc0981: テレビニュース「ワクチン後遺症 ファイザー社の有害事象報告書と国内の症例報告 」
+おっ！サンテレビ
+https://t.co/POagphSFi6 https://t.co/mgNuPjBFfp","RT @ blanc0981: TV news ""Vaccine sequelae Pfizer's adverse event report and domestic case report""
+Oh! sun tv
+https://t.co/POagphSFi6 https://t.co/mgNuPjBFfp",adverse,https://twitter.com/twitter/status/1561713606903078912
+2022.08.22,13,55, ,1,"RT @kirikabu11: @junmurot ワクチン3回目接種後に男女2人が死亡したと発表。
+基礎疾患無し https://t.co/N1zRxYyWsZ","RT @kirikabu11: @junmurot Announced that two men and women died after the third vaccination.
+No underlying disease https://t.co/N1zRxYyWsZ",disease,https://twitter.com/twitter/status/1561713602007945216
+2022.08.22,13,56,1, ,"RT @Tanuk_Ichi: 富山の凄まじいHPVワクチン接種率向上
+関係各所の尽力が伺えます
 
-トオルちゃんです🤗
-今週も　お・つ・か・れ  SAUNER
-暑い夏はまだ終わらないっス💦💦
-そして　はァ〜 😓
-明日はワクチンでございます😨
-念の為に明後日のPRをさせて頂きますネ😃8/23(火)の23：56…","RT @oogakisauna: Sunday fence 🈂️ Impressions of the week 😃
+将来を担う若者たちを、このように正しい知識で守るのが大人や政治の責務だと思います","RT @Tanuk_Ichi: Improving HPV vaccination rates in Toyama
+I can see the efforts of all parties involved.
 
-I'm Toru 🤗
-This week he is also SAUNER
-The hot summer is not over yet💦💦
-And she haha~😓
-Tomorrow is the vaccine 😨
-Just in case, I will do a PR the day after tomorrow 😃8/23 (Tuesday) at 23:56...",not,https://twitter.com/twitter/status/1561363042184876032
-2022.08.21,14:42, ,1,RT @genki_sudo: ワクチン3回目接種から3か月以内 発症を防ぐ効果65%…ということですが、重症化リスクが低くなっている中でたった3ヶ月、65%の効果の為に接種する必要性がわかりません。副反応や後遺症のリスクの方が気になる人は多いはずです。 https://t.c…,RT @genki_sudo: 65% effective in preventing onset within 3 months from the 3rd vaccination... but the need to inoculate for 65% effect for only 3 months while the risk of severe disease is low I do not know. There should be a lot of people who are more concerned about the risk of side effects and sequelae. https://t.c…,severe,https://twitter.com/twitter/status/1561363041270534145
-2022.08.21,14:42, ,1,RT @kumimatsujp1: 抗体値の高さが、免疫力の高さでない事は、医者にとっては、初歩的知識らしいです。ワクチンを射って抗体値を上げて感染や重症化抑制を唱える、医者や専門家と称する人達は、庶民を誤誘導する、確信犯ということ。,RT @kumimatsujp1: It seems to be rudimentary knowledge for doctors that high antibody levels are not high immunity. People who claim to be doctors and experts who raise antibody levels by shooting vaccines and advocate suppressing infection and aggravation are convictions who mislead the common people.,not,https://twitter.com/twitter/status/1561363035641741314
-2022.08.21,14:42, ,1,@geiger_warning そもそもワクチンは感染を防ぐためのものではなく重症化を防ぐものです。,"@geiger_warning In the first place, vaccines are not meant to prevent infection, but to prevent serious illness.",not,https://twitter.com/twitter/status/1561363035112951808
-2022.08.21,14:42,1, ,"RT @sousyou13: 東京は錦糸町にあるラーメン熊八の店主、矢澤さん。
-この騒動が始まって繋がった。
-ワクチン訴訟を単独で始めたり、多くの人に頼られる存在。
-ラーメンも美味かった！
-有り難き！ https://t.co/HQhQ6bnrFR","RT @sousyou13: Mr. Yazawa, the owner of Ramen Kumahachi in Kinshicho, Tokyo.
-This uproar started and connected.
-The existence of starting a vaccine lawsuit alone and being relied on by many people.
-The ramen was delicious too!
-Thank you! https://t.co/HQhQ6bnrFR",delicious,https://twitter.com/twitter/status/1561363033217048582
+I believe that it is the responsibility of adults and politicians to protect young people, who will be responsible for the future, with correct knowledge like this.",responsible,https://twitter.com/twitter/status/1561713895425081344
+2022.08.22,13,56, ,1,RT @verygoodreality: 日本国内にいる人はワクチン未接種でもなんなら熱や咳があっても黙ってれば自由に移動できる一方、入国するにはワクチン3回接種済でも陰性証明書が必要って「外から来るものはケガレ」以外の説明ができないですからね。,"RT @verygoodreality: People in Japan who are not vaccinated can move freely even if they have a fever or cough, but they need a negative certificate to enter the country even if they have been vaccinated three times. I can't explain it other than ""what comes from the outside is unclean"".",negative,https://twitter.com/twitter/status/1561713889775337472
+2022.08.22,13,56,1, ,"@fuji38969ytyy ただその他の検診はまだ未定で私もどのタイミング？！ってなってます笑
+ワクチン同様病院側で決めてくれたらありがたいんですけどね。、🤣笑","@fuji38969ytyy It's just that the other check-ups are undecided, and when am I? ! lol
+I would appreciate it if the hospital side decided like the vaccine. , 🤣 lol",appreciate,https://twitter.com/twitter/status/1561713937732710406
+2022.08.22,13,56,1, ,"RT @WlA8eb6j73Xp2bt: mRNAワクチン接種者は3～5年以内に死亡
+
+Deloris Cahill 教授:mRNA ワクチンを接種した人は全員、たとえ1回しか接種しなくても、3～5年以内に死亡することを人々に正直に伝えなければならない
+#mRNA #医療試験…","RT @WlA8eb6j73Xp2bt: mRNA vaccine recipients die within 3-5 years
+
+Professor Deloris Cahill: We have to be honest with people that everyone who gets an mRNA vaccine will die within 3-5 years, even if they only get one dose
+#mRNA #medical testing...",honest,https://twitter.com/twitter/status/1561713935094788096
+2022.08.22,13,56, ,1,普段、何かを人のせいにすることはあまりないけど、乳児用ワクチン打てずに下の子が重症化したら、さすがに国のせいにします。,"I don't usually blame other people for something, but if my younger child becomes seriously ill because I can't get the infant vaccine, I will blame the country.",ill,https://twitter.com/twitter/status/1561713934918651905
+2022.08.22,13,57,1, ,"RT @Tanuk_Ichi: 最後(たぶん)
+Q. たぬきち先生はなぜそんなにHPVワクチンの普及に熱心なのですか？
+A. 外来でHPVワクチンを勧めても、危険なワクチンを勧めるヤブ医者と思われ、一方で同日にオペ室で子宮摘出をしたり、病棟で子宮頸がんの方の看取りをするような生…","RT @Tanuk_Ichi: Last (probably)
+Q. Why is Dr. Tanukichi so enthusiastic about promoting the HPV vaccine?
+A. Even if the HPV vaccine is recommended at an outpatient clinic, the doctor will think that you are a doctor who recommends a dangerous vaccine. …",enthusiastic,https://twitter.com/twitter/status/1561714210224377856
+2022.08.22,13,57,1, ,"RT @You3_JP: 米国CDCは、パンデミック時に犯した対応の誤りを認めた。その内容は、コロナ検査、マスクやワクチンについてのガイダンス等も含まれる
+
+CDCは、自然免疫を否定し、ワクチン以外の治療法を制限し、ワクチンの被害を無視し、若者に感染対策を強要し、マスクに関して…","RT @You3_JP: The US CDC acknowledged the mistake it made during the pandemic. The content includes corona testing, guidance on masks and vaccines, etc.
+
+The CDC denies natural immunity, limits non-vaccine treatments, ignores the harm of vaccines, forces young people to take measures against infection, and regarding masks...",content,https://twitter.com/twitter/status/1561714208030396416
+2022.08.22,13,57, ,1,大抵の家庭は子供にワクチン打たせてないんか。大人たちの副反応辛そうやもんな…私も腕は痛かった,Most families don't vaccinate their children. Adverse reactions of adults It seems to be painful ... I also had a pain in my arm,pain,https://twitter.com/twitter/status/1561714201105956865
+2022.08.22,13,57,1, ,@io302 世界一マスク付けてワクチン打って4回も打った総理がコロナかかってそろそろすべて意味ないことに気付いたら？笑小学生でも気づいてるよw,"@io302 What if the Prime Minister, who wore the world's best mask and got vaccinated four times, realized that everything was meaningless when he got coronavirus? lol Even elementary school students have noticed w",best,https://twitter.com/twitter/status/1561714258282311680
+2022.08.22,13,57, ,1,"RT @SukunaBikona7: 5～11歳のコロナワクチン3回目接種を承認へ　厚労省 | 毎日新聞 https://t.co/Vo2TMU6TiV
+""厚生労働省は22日、5～11歳の子どもへの3回目接種について、米ファイザー製の新型コロナウイルスワクチンの使用を認める方針…","RT @ SukunaBikona7: To approve the third dose of corona vaccine for 5 to 11 years old Ministry of Health, Labor and Welfare | Mainichi Shimbun https://t.co/Vo2TMU6TiV
+""On the 22nd, the Ministry of Health, Labor and Welfare plans to allow the use of the new coronavirus vaccine made by Pfizer in the United States for the third vaccination of children aged 5 to 11...",old,https://twitter.com/twitter/status/1561714256231690242
